@@ -1,0 +1,1894 @@
+Label,Lngx,Laty,Continent,ID
+London UK,-0.1,51.52,Europe,London UK
+Riyadh Saudi Arabia,46.77,24.65,Asia,Riyadh Saudi Arabia
+Birmingham UK,-1.91,52.48,Europe,Birmingham UK
+Wuhan China,114.27,30.58,Asia,Wuhan China
+Taipei Taiwan,121.45,25.02,Asia,Taipei Taiwan
+Keelung Taiwan,121.73,25.13,Asia,Keelung Taiwan
+Taoyuan Taiwan,121.31,25,Asia,Taoyuan Taiwan
+Hangzhou China,120.17,30.25,Asia,Hangzhou China
+Sydney Australia,151.21,-33.87,Oceania,Sydney Australia
+Geelong Australia,144.32,-38.14,Oceania,Geelong Australia
+Newcastle Australia,151.75,-32.92,Oceania,Newcastle Australia
+Toronto Canada,-79.38,43.65,Americas,Toronto Canada
+Edmonton Canada,-113.54,53.57,Americas,Edmonton Canada
+London Canada,-81.24,42.97,Americas,London Canada
+Santa Monica USA,-118.49,34.01,Americas,Santa Monica USA
+Pittsburgh USA,-79.98,40.44,Americas,Pittsburgh USA
+DeSoto USA,-96.86,32.6,Americas,DeSoto USA
+Washington USA,-77.02,38.91,Americas,Washington USA
+Evanston USA,-87.69,42.05,Americas,Evanston USA
+Columbus USA,-84.87,32.51,Americas,Columbus USA
+Baltimore USA,-76.61,39.3,Americas,Baltimore USA
+Franklin USA,-86.84,35.93,Americas,Franklin USA
+Chicago USA,-87.68,41.84,Americas,Chicago USA
+Birmingham USA,-86.8,33.53,Americas,Birmingham USA
+Arcadia USA,-118.04,34.13,Americas,Arcadia USA
+Rome Italy,12.5,41.89,Europe,Rome Italy
+Ancona Italy,13.5,43.6,Europe,Ancona Italy
+Brussels Belgium,4.33,50.83,Europe,Brussels Belgium
+Lille Belgium,4.83,51.23,Europe,Lille Belgium
+Lille France,3.07,50.64,Europe,Lille France
+Santiago de Compostela Spain,-8.54,42.88,Europe,Santiago de Compostela Spain
+Paris France,2.34,48.86,Europe,Paris France
+Garches France,2.17,48.84,Europe,Garches France
+Linkoping Sweden,15.63,58.41,Europe,Linkoping Sweden
+Pavia Italy,9.15,45.2,Europe,Pavia Italy
+Temple USA,-97.36,31.1,Americas,Temple USA
+Provo USA,-111.64,40.25,Americas,Provo USA
+Amsterdam Netherlands,4.89,52.37,Europe,Amsterdam Netherlands
+Nijmegen Netherlands,5.85,51.84,Europe,Nijmegen Netherlands
+Richmond USA,-122.36,37.95,Americas,Richmond USA
+Colombo Sri Lanka,79.85,6.93,Asia,Colombo Sri Lanka
+Bhaktapur Nepal,85.43,27.67,Asia,Bhaktapur Nepal
+Kathmandu Nepal,85.31,27.71,Asia,Kathmandu Nepal
+Torun Poland,18.61,53.02,Europe,Torun Poland
+Bydgoszcz Poland,18.01,53.12,Europe,Bydgoszcz Poland
+Poznan Poland,16.9,52.4,Europe,Poznan Poland
+Munich Germany,11.58,48.14,Europe,Munich Germany
+Ulm Germany,9.97,48.4,Europe,Ulm Germany
+Tucson USA,-110.89,32.2,Americas,Tucson USA
+Hamburg Germany,10,53.55,Europe,Hamburg Germany
+Stockholm Sweden,18.07,59.33,Europe,Stockholm Sweden
+Budapest Hungary,19.08,47.51,Europe,Budapest Hungary
+Toledo USA,-83.58,41.66,Americas,Toledo USA
+Arlington USA,-77.1,38.88,Americas,Arlington USA
+Madison USA,-89.39,43.08,Americas,Madison USA
+Memphis USA,-90.01,35.11,Americas,Memphis USA
+Sao Paulo Brazil,-46.63,-23.53,Americas,Sao Paulo Brazil
+Campinas Brazil,-47.08,-22.91,Americas,Campinas Brazil
+Gaithersburg USA,-77.22,39.14,Americas,Gaithersburg USA
+Belem Brazil,-48.5,-1.44,Americas,Belem Brazil
+Castanhal Brazil,-47.93,-1.29,Americas,Castanhal Brazil
+Tsaotun Taiwan,120.68,23.98,Asia,Tsaotun Taiwan
+Nantou Taiwan,120.67,23.92,Asia,Nantou Taiwan
+Poitiers France,0.34,46.58,Europe,Poitiers France
+Montpellier France,3.87,43.61,Europe,Montpellier France
+Saint-Denis France,2.36,48.94,Europe,Saint-Denis France
+Lyon France,4.83,45.76,Europe,Lyon France
+Bordeaux France,-0.58,44.84,Europe,Bordeaux France
+Clermont-Ferrand France,3.08,45.78,Europe,Clermont-Ferrand France
+Nantes France,-1.57,47.23,Europe,Nantes France
+Toulouse France,1.45,43.62,Europe,Toulouse France
+Marseille France,5.37,43.31,Europe,Marseille France
+Grenoble France,5.72,45.19,Europe,Grenoble France
+Caen France,-0.36,49.19,Europe,Caen France
+Nancy France,6.17,48.69,Europe,Nancy France
+Taizhou China,119.9,32.49,Asia,Taizhou China
+Ningbo China,121.55,29.88,Asia,Ningbo China
+Lausanne Switzerland,6.62,46.52,Europe,Lausanne Switzerland
+Brisbane Australia,153.02,-27.46,Oceania,Brisbane Australia
+Wageningen Netherlands,5.67,51.98,Europe,Wageningen Netherlands
+Porto Alegre Brazil,-51.22,-30.04,Americas,Porto Alegre Brazil
+New York USA,-73.94,40.67,Americas,New York USA
+Dresden Germany,13.74,51.05,Europe,Dresden Germany
+Marburg Germany,8.77,50.8,Europe,Marburg Germany
+Chemnitz Germany,12.92,50.83,Europe,Chemnitz Germany
+Shanghai China,121.47,31.23,Asia,Shanghai China
+Beijing China,116.4,39.93,Asia,Beijing China
+Zabrze Poland,18.78,50.3,Europe,Zabrze Poland
+Katowice Poland,19.02,50.26,Europe,Katowice Poland
+Gondar Ethiopia,37.46,12.61,Africa,Gondar Ethiopia
+Porto Portugal,-8.62,41.15,Europe,Porto Portugal
+Brasilia Brazil,-47.91,-15.78,Americas,Brasilia Brazil
+Bobigny France,2.44,48.91,Europe,Bobigny France
+Lodz Poland,19.46,51.77,Europe,Lodz Poland
+Lublin Poland,22.57,51.24,Europe,Lublin Poland
+Kirkland USA,-122.19,47.68,Americas,Kirkland USA
+Cambridge USA,-71.12,42.38,Americas,Cambridge USA
+Cambridge UK,0.13,52.21,Europe,Cambridge UK
+Bron France,4.91,45.74,Europe,Bron France
+Arnhem Netherlands,5.91,51.99,Europe,Arnhem Netherlands
+Rotterdam Netherlands,4.48,51.93,Europe,Rotterdam Netherlands
+Boston USA,-71.02,42.34,Americas,Boston USA
+Mildura Australia,142.16,-34.19,Oceania,Mildura Australia
+Melbourne Australia,144.96,-37.81,Oceania,Melbourne Australia
+Launceston Australia,147.13,-41.45,Oceania,Launceston Australia
+Bourg-en-Bresse France,5.21,46.21,Europe,Bourg-en-Bresse France
+Suresnes France,2.22,48.87,Europe,Suresnes France
+Perpignan France,2.89,42.7,Europe,Perpignan France
+Philadelphia USA,-75.13,40.01,Americas,Philadelphia USA
+Buenos Aires Argentina,-58.37,-34.61,Americas,Buenos Aires Argentina
+Santiago Chile,-70.64,-33.46,Americas,Santiago Chile
+Victoria Argentina,-60.18,-32.61,Americas,Victoria Argentina
+Victoria Chile,-72.34,-38.24,Americas,Victoria Chile
+Barcelona Spain,2.17,41.4,Europe,Barcelona Spain
+Shenzhen China,114.13,22.53,Asia,Shenzhen China
+Changzhi China,111.75,35.22,Asia,Changzhi China
+Nantong China,120.82,32.02,Asia,Nantong China
+State College USA,-77.86,40.79,Americas,State College USA
+Cleveland USA,-81.68,41.48,Americas,Cleveland USA
+Nanjing China,118.78,32.05,Asia,Nanjing China
+Colombia Colombia,-74.81,3.38,Americas,Colombia Colombia
+Bogota Colombia,-74.09,4.63,Americas,Bogota Colombia
+Florencia Colombia,-75.62,1.61,Americas,Florencia Colombia
+Singapore Singapore,103.85,1.3,Asia,Singapore Singapore
+Novi Sad Serbia,19.85,45.25,Europe,Novi Sad Serbia
+Subotica Serbia,19.68,46.07,Europe,Subotica Serbia
+Belgrade Serbia,20.5,44.83,Europe,Belgrade Serbia
+Campina Grande Brazil,-35.88,-7.23,Americas,Campina Grande Brazil
+Rio Grande Brazil,-52.11,-32.05,Americas,Rio Grande Brazil
+Natal Brazil,-35.22,-5.8,Americas,Natal Brazil
+Ribeirao Preto Brazil,-47.8,-21.17,Americas,Ribeirao Preto Brazil
+Turin Italy,7.68,45.08,Europe,Turin Italy
+Chieri Italy,7.82,45.03,Europe,Chieri Italy
+Orbassano Italy,7.53,45.02,Europe,Orbassano Italy
+Novara Italy,8.62,45.45,Europe,Novara Italy
+Medicina Italy,11.63,44.48,Europe,Medicina Italy
+Mbarara Uganda,30.65,-0.6,Africa,Mbarara Uganda
+Hamilton Canada,-79.85,43.26,Americas,Hamilton Canada
+Hamilton UK,-4.03,55.77,Europe,Hamilton UK
+Kampala Uganda,32.58,0.32,Africa,Kampala Uganda
+Dhaka Bangladesh,90.39,23.7,Asia,Dhaka Bangladesh
+Nottingham UK,-1.18,52.97,Europe,Nottingham UK
+Tokyo Japan,139.77,35.67,Asia,Tokyo Japan
+Rzeszow Poland,22,50.05,Europe,Rzeszow Poland
+Baghdad Iraq,44.44,33.33,Asia,Baghdad Iraq
+Santo Antonio de Jesus Brazil,-39.27,-12.97,Americas,Santo Antonio de Jesus Brazil
+Feira de Santana Brazil,-38.97,-12.25,Americas,Feira de Santana Brazil
+Porto Velho Brazil,-63.91,-8.76,Americas,Porto Velho Brazil
+Hatfield UK,-1.09,53.58,Europe,Hatfield UK
+Perth Australia,115.84,-31.96,Oceania,Perth Australia
+Bonn Germany,7.1,50.73,Europe,Bonn Germany
+Hobart Australia,147.29,-42.85,Oceania,Hobart Australia
+Friedrichshafen Germany,9.48,47.66,Europe,Friedrichshafen Germany
+Ottawa Canada,-75.71,45.42,Americas,Ottawa Canada
+Berlin Germany,13.38,52.52,Europe,Berlin Germany
+Paris Canada,-80.38,43.2,Americas,Paris Canada
+Geneva Switzerland,6.14,46.21,Europe,Geneva Switzerland
+Amiens France,2.3,49.9,Europe,Amiens France
+Villejuif France,2.39,48.8,Europe,Villejuif France
+Creteil France,2.45,48.79,Europe,Creteil France
+Albert France,2.65,50,Europe,Albert France
+Montreal Canada,-73.57,45.52,Americas,Montreal Canada
+Mississauga Canada,-79.65,43.6,Americas,Mississauga Canada
+Milan Italy,9.19,45.48,Europe,Milan Italy
+Thonex Switzerland,6.19,46.19,Europe,Thonex Switzerland
+Bayonne France,-1.48,43.5,Europe,Bayonne France
+Xian China,108.9,34.27,Asia,Xian China
+Nieuwegein Netherlands,5.08,52.03,Europe,Nieuwegein Netherlands
+Eltville Germany,8.11,50.04,Europe,Eltville Germany
+Friedrichsdorf Germany,8.65,50.27,Europe,Friedrichsdorf Germany
+Chongqing China,106.58,29.57,Asia,Chongqing China
+Mersin Turkey,34.63,36.81,Asia,Mersin Turkey
+Cologne Germany,6.97,50.95,Europe,Cologne Germany
+Mannheim Germany,8.47,49.5,Europe,Mannheim Germany
+Valencia Spain,-0.39,39.48,Europe,Valencia Spain
+Burjassot Spain,-0.39,39.5,Europe,Burjassot Spain
+Vera Spain,-1.87,37.25,Europe,Vera Spain
+Fuli China,131.12,46.72,Asia,Fuli China
+Xiaoshan China,120.25,30.16,Asia,Xiaoshan China
+Girona Spain,2.81,41.98,Europe,Girona Spain
+Clermont France,2.41,49.39,Europe,Clermont France
+Vilnius Lithuania,25.27,54.7,Europe,Vilnius Lithuania
+Cittadella Italy,11.77,45.65,Europe,Cittadella Italy
+Monserrato Italy,9.13,39.26,Europe,Monserrato Italy
+Cagliari Italy,9.1,39.22,Europe,Cagliari Italy
+Sassari Italy,8.56,40.73,Europe,Sassari Italy
+Dallas USA,-96.77,32.79,Americas,Dallas USA
+Union USA,-74.27,40.7,Americas,Union USA
+Luzhou China,105.38,28.88,Asia,Luzhou China
+Chengdu China,104.07,30.67,Asia,Chengdu China
+Springfield USA,-89.64,39.78,Americas,Springfield USA
+Oujda Morocco,-1.91,34.69,Africa,Oujda Morocco
+Aurora USA,-88.29,41.77,Americas,Aurora USA
+Austin USA,-97.75,30.31,Americas,Austin USA
+Melbourne USA,-80.64,28.11,Americas,Melbourne USA
+Iowa City USA,-91.54,41.66,Americas,Iowa City USA
+Homburg Germany,7.33,49.33,Europe,Homburg Germany
+Houston USA,-95.39,29.77,Americas,Houston USA
+Dalian China,121.65,38.92,Asia,Dalian China
+Bologna Italy,11.34,44.5,Europe,Bologna Italy
+Freiburg Germany,7.85,47.99,Europe,Freiburg Germany
+Jodhpur India,73.02,26.29,Asia,Jodhpur India
+Kiel Germany,10.12,54.32,Europe,Kiel Germany
+Oslo Norway,10.75,59.91,Europe,Oslo Norway
+Columbia USA,-80.89,34.04,Americas,Columbia USA
+Irving USA,-96.97,32.86,Americas,Irving USA
+Riverside USA,-117.4,33.94,Americas,Riverside USA
+Edinburgh UK,-3.22,55.95,Europe,Edinburgh UK
+Bangalore India,77.56,12.97,Asia,Bangalore India
+Awka Nigeria,7.07,6.22,Africa,Awka Nigeria
+Nnewi Nigeria,6.92,6.03,Africa,Nnewi Nigeria
+Dunedin New Zealand,170.48,-45.88,Oceania,Dunedin New Zealand
+San Francisco USA,-122.45,37.77,Americas,San Francisco USA
+Dali China,100.15,25.7,Asia,Dali China
+Kunming China,102.7,25.05,Asia,Kunming China
+La Crosse USA,-91.23,43.83,Americas,La Crosse USA
+Rochester USA,-77.62,43.17,Americas,Rochester USA
+Jacksonville USA,-77.4,34.76,Americas,Jacksonville USA
+Bucaramanga Colombia,-73.13,7.13,Americas,Bucaramanga Colombia
+Naples Italy,14.27,40.85,Europe,Naples Italy
+Antioquia Colombia,-75.83,6.56,Americas,Antioquia Colombia
+Klecany Czech Republic,14.42,50.18,Europe,Klecany Czech Republic
+Prague Czech Republic,14.43,50.08,Europe,Prague Czech Republic
+Brno Czech Republic,16.61,49.2,Europe,Brno Czech Republic
+Shreveport USA,-93.8,32.47,Americas,Shreveport USA
+New Orleans USA,-89.93,30.07,Americas,New Orleans USA
+Stockton USA,-121.31,37.97,Americas,Stockton USA
+Graz Austria,15.42,47.08,Europe,Graz Austria
+Gaborone Botswana,25.91,-24.65,Africa,Gaborone Botswana
+Durban South Africa,30.99,-29.87,Africa,Durban South Africa
+Kharkiv Ukraine,36.22,49.98,Europe,Kharkiv Ukraine
+Maringa Brazil,-51.93,-23.41,Americas,Maringa Brazil
+Colombo Brazil,-49.24,-25.29,Americas,Colombo Brazil
+Jardim Brazil,-56.15,-21.48,Americas,Jardim Brazil
+Trindade Brazil,-49.5,-16.65,Americas,Trindade Brazil
+Florianopolis Brazil,-48.54,-27.6,Americas,Florianopolis Brazil
+Huntsville USA,-86.63,34.71,Americas,Huntsville USA
+Veracruz Mexico,-96.14,19.19,Americas,Veracruz Mexico
+Xalapa Mexico,-96.92,19.53,Americas,Xalapa Mexico
+Albany USA,-123.09,44.62,Americas,Albany USA
+Atlanta USA,-84.42,33.76,Americas,Atlanta USA
+Guangzhou China,113.25,23.12,Asia,Guangzhou China
+Pelotas Brazil,-52.34,-31.76,Americas,Pelotas Brazil
+Marechal Deodoro Brazil,-35.9,-9.72,Americas,Marechal Deodoro Brazil
+Bristol UK,-2.6,51.46,Europe,Bristol UK
+Liege Belgium,5.57,50.64,Europe,Liege Belgium
+Cotonou Benin,2.44,6.36,Africa,Cotonou Benin
+Abomey-Calavi Benin,2.36,6.44,Africa,Abomey-Calavi Benin
+Ecully France,4.75,45.77,Europe,Ecully France
+Copenhagen Denmark,12.57,55.68,Europe,Copenhagen Denmark
+Nice France,7.27,43.7,Europe,Nice France
+Strasbourg France,7.76,48.58,Europe,Strasbourg France
+Padova Italy,11.87,45.41,Europe,Padova Italy
+Parma Italy,10.32,44.81,Europe,Parma Italy
+Towson USA,-76.62,39.4,Americas,Towson USA
+Vilvoorde Belgium,4.43,50.93,Europe,Vilvoorde Belgium
+Glasgow UK,-4.27,55.87,Europe,Glasgow UK
+Liverpool UK,-2.99,53.42,Europe,Liverpool UK
+Shiga Japan,135.92,35.19,Asia,Shiga Japan
+Otsu Japan,135.87,35.01,Asia,Otsu Japan
+Cerdanyola Spain,2.13,41.49,Europe,Cerdanyola Spain
+Badalona Spain,2.24,41.45,Europe,Badalona Spain
+Hsinchu Taiwan,120.98,24.82,Asia,Hsinchu Taiwan
+Kenitra Morocco,-6.58,34.27,Africa,Kenitra Morocco
+Rabat Morocco,-6.84,34.02,Africa,Rabat Morocco
+Adelaide Australia,138.6,-34.93,Oceania,Adelaide Australia
+Thessaloniki Greece,22.94,40.64,Europe,Thessaloniki Greece
+Moscow Russia,37.62,55.75,Europe,Moscow Russia
+Samara Russia,50.15,53.2,Europe,Samara Russia
+Orsay France,2.18,48.7,Europe,Orsay France
+Saint Petersburg Russia,30.32,59.93,Europe,Saint Petersburg Russia
+Valledupar Colombia,-73.25,10.48,Americas,Valledupar Colombia
+Antwerp Belgium,4.42,51.22,Europe,Antwerp Belgium
+Minneapolis USA,-93.27,44.96,Americas,Minneapolis USA
+Wichita USA,-97.34,37.69,Americas,Wichita USA
+Caserta Italy,14.32,41.07,Europe,Caserta Italy
+Cairo Egypt,31.25,30.06,Africa,Cairo Egypt
+Ostersund Sweden,14.65,63.18,Europe,Ostersund Sweden
+Karachi Pakistan,67.01,24.86,Asia,Karachi Pakistan
+Lahore Pakistan,74.35,31.56,Asia,Lahore Pakistan
+Doha Qatar,51.51,25.3,Asia,Doha Qatar
+Charlotte USA,-80.83,35.2,Americas,Charlotte USA
+Gainesville USA,-82.34,29.67,Americas,Gainesville USA
+Riga Latvia,24.13,56.97,Europe,Riga Latvia
+Granada Spain,-3.59,37.17,Europe,Granada Spain
+Changsha China,112.97,28.2,Asia,Changsha China
+Dublin Ireland,-6.25,53.33,Europe,Dublin Ireland
+Dublin USA,-121.91,37.72,Americas,Dublin USA
+San Diego USA,-117.14,32.81,Americas,San Diego USA
+Maastricht Netherlands,5.69,50.85,Europe,Maastricht Netherlands
+Manchester UK,-2.25,53.48,Europe,Manchester UK
+Warsaw Poland,21.02,52.26,Europe,Warsaw Poland
+Swansea UK,-3.96,51.63,Europe,Swansea UK
+Wiesbaden Germany,8.23,50.08,Europe,Wiesbaden Germany
+Stuttgart Germany,9.19,48.79,Europe,Stuttgart Germany
+Dusseldorf Germany,6.79,51.24,Europe,Dusseldorf Germany
+Mainz Germany,8.26,50,Europe,Mainz Germany
+Frankfurt Germany,8.68,50.12,Europe,Frankfurt Germany
+Bremerhaven Germany,8.58,53.55,Europe,Bremerhaven Germany
+Griffith Australia,146.04,-34.29,Oceania,Griffith Australia
+Cincinnati USA,-84.51,39.14,Americas,Cincinnati USA
+Stamford UK,-0.49,52.66,Europe,Stamford UK
+San Antonio USA,-98.51,29.46,Americas,San Antonio USA
+Mangilao Guam,144.8,13.44,Oceania,Mangilao Guam
+Honolulu USA,-157.8,21.32,Americas,Honolulu USA
+Featherstone UK,-1.37,53.7,Europe,Featherstone UK
+Milton Keynes UK,-0.75,52.02,Europe,Milton Keynes UK
+Chester UK,-2.92,53.2,Europe,Chester UK
+Bialystok Poland,23.16,53.14,Europe,Bialystok Poland
+Bucharest Romania,26.1,44.44,Europe,Bucharest Romania
+Stratford USA,-73.13,41.2,Americas,Stratford USA
+Dalhousie Canada,-66.37,48.07,Americas,Dalhousie Canada
+Halifax UK,-1.88,53.73,Europe,Halifax UK
+Halifax Canada,-63.61,44.67,Americas,Halifax Canada
+Barra do Garcas Brazil,-52.26,-15.88,Americas,Barra do Garcas Brazil
+Londrina Brazil,-51.18,-23.3,Americas,Londrina Brazil
+Bandeirantes Brazil,-50.37,-23.1,Americas,Bandeirantes Brazil
+Rawalpindi Pakistan,73.04,33.6,Asia,Rawalpindi Pakistan
+Sahiwal Pakistan,73.11,30.67,Asia,Sahiwal Pakistan
+Peshawar Pakistan,71.54,34.01,Asia,Peshawar Pakistan
+Islamabad Pakistan,73.06,33.72,Asia,Islamabad Pakistan
+Szeged Hungary,20.16,46.26,Europe,Szeged Hungary
+Angers France,-0.54,47.48,Europe,Angers France
+Rennes France,-1.68,48.11,Europe,Rennes France
+Vitoria Brazil,-40.31,-20.31,Americas,Vitoria Brazil
+Vila Velha Brazil,-40.28,-20.32,Americas,Vila Velha Brazil
+Rio de Janeiro Brazil,-43.2,-22.91,Americas,Rio de Janeiro Brazil
+Bradford UK,-1.75,53.8,Europe,Bradford UK
+Huddersfield UK,-1.8,53.66,Europe,Huddersfield UK
+Lagos Nigeria,3.47,6.45,Africa,Lagos Nigeria
+Karlsruhe Germany,8.4,49,Europe,Karlsruhe Germany
+Verona Italy,10.99,45.44,Europe,Verona Italy
+Ferrara Italy,11.61,44.84,Europe,Ferrara Italy
+Oxford UK,-1.26,51.76,Europe,Oxford UK
+Basel Switzerland,7.58,47.57,Europe,Basel Switzerland
+Zurich Switzerland,8.54,47.38,Europe,Zurich Switzerland
+Miami USA,-80.21,25.78,Americas,Miami USA
+Fort Lauderdale USA,-80.14,26.14,Americas,Fort Lauderdale USA
+Orlando USA,-81.37,28.5,Americas,Orlando USA
+Foshan China,113.12,23.03,Asia,Foshan China
+Loos France,3.01,50.61,Europe,Loos France
+Lisbon Portugal,-9.14,38.72,Europe,Lisbon Portugal
+Coimbra Portugal,-8.43,40.22,Europe,Coimbra Portugal
+Jinan China,117,36.67,Asia,Jinan China
+Lishui China,119.91,28.46,Asia,Lishui China
+Shenyang China,123.45,41.8,Asia,Shenyang China
+Ramat Gan Israel,34.8,32.08,Asia,Ramat Gan Israel
+Ibadan Nigeria,3.93,7.38,Africa,Ibadan Nigeria
+Tianjin China,117.2,39.13,Asia,Tianjin China
+Cattolica Italy,12.81,43.95,Europe,Cattolica Italy
+Washington UK,-1.53,54.91,Europe,Washington UK
+Lexington USA,-84.46,38.04,Americas,Lexington USA
+Metz France,6.18,49.12,Europe,Metz France
+Ely UK,0.27,52.4,Europe,Ely UK
+Lincoln UK,-0.55,53.25,Europe,Lincoln UK
+Palma Spain,2.65,39.57,Europe,Palma Spain
+Paulinia Brazil,-47.17,-22.75,Americas,Paulinia Brazil
+Barueri Brazil,-46.86,-23.49,Americas,Barueri Brazil
+Dendermonde Belgium,4.12,51.03,Europe,Dendermonde Belgium
+Burgdorf Switzerland,7.62,47.07,Europe,Burgdorf Switzerland
+Vienna Austria,16.37,48.22,Europe,Vienna Austria
+Akure Nigeria,5.2,7.25,Africa,Akure Nigeria
+Haifa Israel,34.99,32.82,Asia,Haifa Israel
+Leiden Netherlands,4.49,52.17,Europe,Leiden Netherlands
+Boulogne-Billancourt France,2.24,48.83,Europe,Boulogne-Billancourt France
+Reims France,4.03,49.25,Europe,Reims France
+Tromso Norway,18.94,69.66,Europe,Tromso Norway
+Mortara Italy,8.73,45.27,Europe,Mortara Italy
+Piacenza Italy,9.68,45.06,Europe,Piacenza Italy
+Bergen Norway,5.34,60.38,Europe,Bergen Norway
+Enschede Netherlands,6.89,52.22,Europe,Enschede Netherlands
+Brumunddal Norway,10.93,60.89,Europe,Brumunddal Norway
+Calgary Canada,-114.06,51.05,Americas,Calgary Canada
+Nashville USA,-86.78,36.17,Americas,Nashville USA
+Montevideo Uruguay,-56.17,-34.87,Americas,Montevideo Uruguay
+Cordoba Argentina,-64.19,-31.4,Americas,Cordoba Argentina
+Vadodara India,73.18,22.31,Asia,Vadodara India
+Nadiad India,72.85,22.7,Asia,Nadiad India
+Chennai India,80.27,13.09,Asia,Chennai India
+Rieti Italy,12.86,42.41,Europe,Rieti Italy
+Cordoba Spain,-4.77,37.88,Europe,Cordoba Spain
+Leon Spain,-5.57,42.59,Europe,Leon Spain
+Salamanca Spain,-5.67,40.97,Europe,Salamanca Spain
+Chiang Mai Thailand,98.98,18.8,Asia,Chiang Mai Thailand
+Abha Saudi Arabia,42.5,18.23,Asia,Abha Saudi Arabia
+Ludwigsburg Germany,9.19,48.9,Europe,Ludwigsburg Germany
+Little Rock USA,-92.35,34.72,Americas,Little Rock USA
+Modena Italy,10.92,44.65,Europe,Modena Italy
+Redwood City USA,-122.21,37.52,Americas,Redwood City USA
+Auburn USA,-122.21,47.3,Americas,Auburn USA
+Yantai China,121.4,37.53,Asia,Yantai China
+Mucuri Brazil,-39.57,-18.08,Americas,Mucuri Brazil
+Diamantina Brazil,-43.61,-18.24,Americas,Diamantina Brazil
+Hengyang China,112.62,26.89,Asia,Hengyang China
+Odesa Ukraine,30.73,46.47,Europe,Odesa Ukraine
+Galle Sri Lanka,80.21,6.05,Asia,Galle Sri Lanka
+Pamplona Spain,-1.65,42.82,Europe,Pamplona Spain
+Eau Claire USA,-91.49,44.82,Americas,Eau Claire USA
+Covilha Portugal,-7.51,40.29,Europe,Covilha Portugal
+Caparica Portugal,-9.19,38.67,Europe,Caparica Portugal
+Sumare Brazil,-47.29,-22.8,Americas,Sumare Brazil
+Courrieres France,2.93,50.45,Europe,Courrieres France
+Wroclaw Poland,17.03,51.11,Europe,Wroclaw Poland
+Heidelberg Germany,8.69,49.42,Europe,Heidelberg Germany
+Ferreira Portugal,-8.34,41.27,Europe,Ferreira Portugal
+Matosinhos Portugal,-8.7,41.18,Europe,Matosinhos Portugal
+Bethesda USA,-77.12,38.99,Americas,Bethesda USA
+Salt Lake City USA,-111.93,40.78,Americas,Salt Lake City USA
+Ibague Colombia,-75.24,4.45,Americas,Ibague Colombia
+Pisa Italy,10.4,43.72,Europe,Pisa Italy
+Fort Worth USA,-97.34,32.75,Americas,Fort Worth USA
+Hamilton USA,-84.56,39.39,Americas,Hamilton USA
+Logan USA,-111.84,41.74,Americas,Logan USA
+Lawrence USA,-85.99,39.87,Americas,Lawrence USA
+Kansas City USA,-94.73,39.12,Americas,Kansas City USA
+Lenexa USA,-94.79,38.96,Americas,Lenexa USA
+Pessac France,-0.66,44.8,Europe,Pessac France
+Odense Denmark,10.38,55.4,Europe,Odense Denmark
+Dundee UK,-3,56.47,Europe,Dundee UK
+Motherwell UK,-4,55.79,Europe,Motherwell UK
+Manchester USA,-71.44,42.98,Americas,Manchester USA
+Dubai United Arab Emirates,55.33,25.27,Asia,Dubai United Arab Emirates
+Trondheim Norway,10.4,63.44,Europe,Trondheim Norway
+Sligo Ireland,-8.48,54.28,Europe,Sligo Ireland
+Ann Arbor USA,-83.73,42.28,Americas,Ann Arbor USA
+Portland USA,-122.66,45.54,Americas,Portland USA
+Kalamazoo USA,-85.59,42.27,Americas,Kalamazoo USA
+Medellin Colombia,-75.54,6.29,Americas,Medellin Colombia
+Norfolk USA,-76.24,36.92,Americas,Norfolk USA
+Chapel Hill USA,-79.04,35.93,Americas,Chapel Hill USA
+Macerata Italy,13.44,43.3,Europe,Macerata Italy
+Guadalajara Mexico,-103.35,20.67,Americas,Guadalajara Mexico
+Guadalajara Spain,-3.17,40.64,Europe,Guadalajara Spain
+Gelugor Malaysia,100.5,5.48,Asia,Gelugor Malaysia
+Kuala Lumpur Malaysia,101.71,3.16,Asia,Kuala Lumpur Malaysia
+Luanda Angola,13.24,-8.82,Africa,Luanda Angola
+Lima Peru,-77.05,-12.07,Americas,Lima Peru
+Brantford Canada,-80.26,43.15,Americas,Brantford Canada
+Jackson USA,-90.21,32.32,Americas,Jackson USA
+Fundacion Colombia,-74.19,10.53,Americas,Fundacion Colombia
+Maribor Slovenia,15.64,46.55,Europe,Maribor Slovenia
+Koper Slovenia,13.73,45.55,Europe,Koper Slovenia
+Ljubljana Slovenia,14.51,46.06,Europe,Ljubljana Slovenia
+Grosseto Italy,11.1,42.77,Europe,Grosseto Italy
+Okayama Japan,133.92,34.67,Asia,Okayama Japan
+Mianyang China,104.77,31.47,Asia,Mianyang China
+Bath UK,-2.38,51.39,Europe,Bath UK
+Utrecht Netherlands,5.11,52.1,Europe,Utrecht Netherlands
+Gent Belgium,3.72,51.05,Europe,Gent Belgium
+Saverne France,7.36,48.75,Europe,Saverne France
+Lome Togo,1.35,6.17,Africa,Lome Togo
+Unity Canada,-109.17,52.43,Americas,Unity Canada
+Laval France,-0.78,48.07,Europe,Laval France
+Quebec Canada,-71.23,46.82,Americas,Quebec Canada
+Milwaukee USA,-87.97,43.06,Americas,Milwaukee USA
+Lafayette USA,-92.03,30.22,Americas,Lafayette USA
+Liverpool Canada,-64.72,44.03,Americas,Liverpool Canada
+Brussels Canada,-81.25,43.75,Americas,Brussels Canada
+Stansstad Switzerland,8.33,46.97,Europe,Stansstad Switzerland
+Saint-Maurice France,2.41,48.83,Europe,Saint-Maurice France
+Gentilly France,2.33,48.82,Europe,Gentilly France
+Antony France,2.3,48.76,Europe,Antony France
+Harbin China,126.65,45.75,Asia,Harbin China
+Stirling UK,-3.94,56.12,Europe,Stirling UK
+Tarnow Poland,20.99,50.01,Europe,Tarnow Poland
+Tainan Taiwan,120.19,23,Asia,Tainan Taiwan
+Abraka Nigeria,6.1,5.78,Africa,Abraka Nigeria
+Taichung Taiwan,120.68,24.15,Asia,Taichung Taiwan
+Szczecin Poland,14.53,53.43,Europe,Szczecin Poland
+Cork Ireland,-8.47,51.9,Europe,Cork Ireland
+Henderson USA,-115,36.03,Americas,Henderson USA
+Davis USA,-121.74,38.55,Americas,Davis USA
+Carson City USA,-119.74,39.15,Americas,Carson City USA
+Ourense Spain,-7.87,42.33,Europe,Ourense Spain
+Guayaquil Ecuador,-79.9,-2.21,Americas,Guayaquil Ecuador
+Leipzig Germany,12.4,51.35,Europe,Leipzig Germany
+East Lansing USA,-84.48,42.74,Americas,East Lansing USA
+Tempe USA,-111.93,33.39,Americas,Tempe USA
+Tacoma USA,-122.46,47.25,Americas,Tacoma USA
+Christchurch New Zealand,172.64,-43.53,Oceania,Christchurch New Zealand
+Murray USA,-111.89,40.65,Americas,Murray USA
+Tehran Iran,51.43,35.67,Asia,Tehran Iran
+Fukuoka Japan,130.41,33.59,Asia,Fukuoka Japan
+Hikari Japan,131.93,33.96,Asia,Hikari Japan
+Leuven Belgium,4.7,50.88,Europe,Leuven Belgium
+Tbilisi Georgia,44.79,41.72,Asia,Tbilisi Georgia
+Jaen Spain,-3.8,37.77,Europe,Jaen Spain
+Ceuta Spain,-5.3,35.91,Europe,Ceuta Spain
+Blumenau Brazil,-49.09,-26.92,Americas,Blumenau Brazil
+Wyoming USA,-85.7,42.89,Americas,Wyoming USA
+San Jose Costa Rica,-85.13,10.97,Americas,San Jose Costa Rica
+Bendigo Australia,144.28,-36.76,Oceania,Bendigo Australia
+Providence USA,-71.42,41.82,Americas,Providence USA
+Ensenada Mexico,-116.62,31.87,Americas,Ensenada Mexico
+Long Beach USA,-118.16,33.79,Americas,Long Beach USA
+Nicosia Cyprus,33.38,35.16,Asia,Nicosia Cyprus
+Fortaleza Brazil,-38.59,-3.78,Americas,Fortaleza Brazil
+Helsinki Finland,24.94,60.17,Europe,Helsinki Finland
+Veurne Belgium,2.67,51.07,Europe,Veurne Belgium
+Krasnodar Russia,38.98,45.03,Europe,Krasnodar Russia
+Yekaterinburg Russia,60.6,56.85,Europe,Yekaterinburg Russia
+Kemerovo Russia,86.08,55.33,Europe,Kemerovo Russia
+Kirov Russia,34.31,54.08,Europe,Kirov Russia
+Giresun Turkey,38.39,40.92,Asia,Giresun Turkey
+Espiye Turkey,38.72,40.95,Asia,Espiye Turkey
+Istanbul Turkey,29,41.1,Asia,Istanbul Turkey
+Ankara Turkey,32.85,39.93,Asia,Ankara Turkey
+Louisville USA,-85.74,38.22,Americas,Louisville USA
+Takoradi Ghana,-1.76,4.89,Africa,Takoradi Ghana
+Volgograd Russia,44.48,48.71,Europe,Volgograd Russia
+Arkhangelsk Russia,40.53,64.57,Europe,Arkhangelsk Russia
+Erfurt Germany,11.03,50.99,Europe,Erfurt Germany
+Gottingen Germany,9.92,51.53,Europe,Gottingen Germany
+Greensboro USA,-79.83,36.08,Americas,Greensboro USA
+Tuscaloosa USA,-87.54,33.24,Americas,Tuscaloosa USA
+Cardiff UK,-3.18,51.48,Europe,Cardiff UK
+Colton USA,-117.32,34.06,Americas,Colton USA
+San Rafael Colombia,-75.02,6.31,Americas,San Rafael Colombia
+Tunja Colombia,-73.37,5.55,Americas,Tunja Colombia
+Almaty Kazakhstan,76.92,43.32,Asia,Almaty Kazakhstan
+Faisalabad Pakistan,73.11,31.41,Asia,Faisalabad Pakistan
+Ballarat Australia,143.84,-37.56,Oceania,Ballarat Australia
+Cracow Poland,19.96,50.06,Europe,Cracow Poland
+Olomouc Czech Republic,17.25,49.61,Europe,Olomouc Czech Republic
+Nis Serbia,21.9,43.33,Europe,Nis Serbia
+Canoas Brazil,-51.18,-29.92,Americas,Canoas Brazil
+Rosario Brazil,-44.26,-2.94,Americas,Rosario Brazil
+Rosario Argentina,-60.67,-32.94,Americas,Rosario Argentina
+Cuenca Ecuador,-79.01,-2.9,Americas,Cuenca Ecuador
+Leiria Portugal,-8.8,39.75,Europe,Leiria Portugal
+Braga Portugal,-8.43,41.55,Europe,Braga Portugal
+Athens Greece,23.73,37.98,Europe,Athens Greece
+Trikala Greece,22.56,40.6,Europe,Trikala Greece
+Reading UK,-0.98,51.45,Europe,Reading UK
+Olsztyn Poland,20.49,53.78,Europe,Olsztyn Poland
+Caceres Brazil,-57.51,-16.05,Americas,Caceres Brazil
+Cuiaba Brazil,-56.09,-15.61,Americas,Cuiaba Brazil
+Campo Grande Brazil,-54.63,-20.45,Americas,Campo Grande Brazil
+Ariquemes Brazil,-63.08,-9.94,Americas,Ariquemes Brazil
+Krasnoyarsk Russia,93.06,56.02,Europe,Krasnoyarsk Russia
+Perth Canada,-76.23,44.88,Americas,Perth Canada
+Kingston Canada,-76.5,44.23,Americas,Kingston Canada
+Newark USA,-74.17,40.72,Americas,Newark USA
+Elmhurst USA,-87.94,41.9,Americas,Elmhurst USA
+Phoenix USA,-112.07,33.54,Americas,Phoenix USA
+Orenburg Russia,55.1,51.78,Europe,Orenburg Russia
+Joinville Brazil,-48.84,-26.32,Americas,Joinville Brazil
+Madrid Spain,-3.71,40.42,Europe,Madrid Spain
+Vancouver Canada,-123.13,49.28,Americas,Vancouver Canada
+Shiraz Iran,52.57,29.63,Asia,Shiraz Iran
+Panama Panama,-79.53,8.97,Americas,Panama Panama
+Sacramento USA,-121.47,38.57,Americas,Sacramento USA
+Kermanshah Iran,47.06,34.38,Asia,Kermanshah Iran
+Blackpool UK,-3.06,53.82,Europe,Blackpool UK
+Aberdeen UK,-2.1,57.15,Europe,Aberdeen UK
+Southampton UK,-1.41,50.91,Europe,Southampton UK
+Oyo Nigeria,3.92,7.83,Africa,Oyo Nigeria
+Leicester UK,-1.13,52.64,Europe,Leicester UK
+Harare Zimbabwe,31.05,-17.82,Africa,Harare Zimbabwe
+Vught Netherlands,5.29,51.66,Europe,Vught Netherlands
+Kawasaki Japan,139.7,35.53,Asia,Kawasaki Japan
+San Jose USA,-121.85,37.3,Americas,San Jose USA
+Stellenbosch South Africa,18.86,-33.92,Africa,Stellenbosch South Africa
+Vancouver USA,-122.64,45.63,Americas,Vancouver USA
+Nairobi Kenya,36.82,-1.29,Africa,Nairobi Kenya
+Belo Horizonte Brazil,-43.94,-19.92,Americas,Belo Horizonte Brazil
+Auckland New Zealand,174.76,-36.85,Oceania,Auckland New Zealand
+Mossoro Brazil,-37.34,-5.19,Americas,Mossoro Brazil
+Paulista Brazil,-34.91,-7.9,Americas,Paulista Brazil
+Montenegro Brazil,-51.48,-29.67,Americas,Montenegro Brazil
+Botucatu Brazil,-48.45,-22.88,Americas,Botucatu Brazil
+Envigado Colombia,-75.56,6.16,Americas,Envigado Colombia
+Miaoli Taiwan,120.81,24.57,Asia,Miaoli Taiwan
+Kaohsiung Taiwan,120.27,22.63,Asia,Kaohsiung Taiwan
+Bhubaneswar India,85.84,20.27,Asia,Bhubaneswar India
+Cusco Peru,-71.99,-13.52,Americas,Cusco Peru
+Tumbes Peru,-80.46,-3.57,Americas,Tumbes Peru
+Cadiz Spain,-6.29,36.53,Europe,Cadiz Spain
+Recife Brazil,-34.92,-8.08,Americas,Recife Brazil
+Limoeiro Brazil,-35.45,-7.87,Americas,Limoeiro Brazil
+Presidente Prudente Brazil,-51.39,-22.12,Americas,Presidente Prudente Brazil
+Wellington New Zealand,174.78,-41.28,Oceania,Wellington New Zealand
+Neiva Colombia,-75.27,2.94,Americas,Neiva Colombia
+Maidstone UK,0.51,51.28,Europe,Maidstone UK
+Dartford UK,0.22,51.44,Europe,Dartford UK
+Wellington UK,-2.52,52.7,Europe,Wellington UK
+Jerusalem Israel,35.22,31.78,Asia,Jerusalem Israel
+Netanya Israel,34.86,32.33,Asia,Netanya Israel
+Zagreb Croatia,15.97,45.8,Europe,Zagreb Croatia
+Teramo Italy,13.7,42.67,Europe,Teramo Italy
+San Dona di Piave Italy,12.56,45.64,Europe,San Dona di Piave Italy
+Chorzow Poland,19.03,50.3,Europe,Chorzow Poland
+Scranton USA,-75.67,41.4,Americas,Scranton USA
+Nsukka Nigeria,7.39,6.86,Africa,Nsukka Nigeria
+San Jose Spain,1.28,38.92,Europe,San Jose Spain
+Burgos Spain,-3.69,42.35,Europe,Burgos Spain
+Nimes France,4.35,43.84,Europe,Nimes France
+Sherbrooke Canada,-71.9,45.4,Americas,Sherbrooke Canada
+Reno USA,-119.82,39.54,Americas,Reno USA
+Las Vegas USA,-115.22,36.21,Americas,Las Vegas USA
+Campos Brazil,-41.34,-21.75,Americas,Campos Brazil
+Santa Maria Brazil,-53.83,-29.69,Americas,Santa Maria Brazil
+Dijon France,5.03,47.33,Europe,Dijon France
+Orange USA,-117.82,33.81,Americas,Orange USA
+Santa Ana USA,-117.88,33.74,Americas,Santa Ana USA
+Monte Alegre Brazil,-54.08,-2,Americas,Monte Alegre Brazil
+Araguari Brazil,-48.2,-18.64,Americas,Araguari Brazil
+Las Rozas de Madrid Spain,-3.87,40.5,Europe,Las Rozas de Madrid Spain
+Alcala de Henares Spain,-3.37,40.48,Europe,Alcala de Henares Spain
+Worcester USA,-71.81,42.27,Americas,Worcester USA
+Wolfville Canada,-64.37,45.08,Americas,Wolfville Canada
+Galway Ireland,-9.06,53.28,Europe,Galway Ireland
+Oranmore Ireland,-8.93,53.27,Europe,Oranmore Ireland
+Rivers Canada,-100.22,50.03,Americas,Rivers Canada
+Fredericton Canada,-66.66,45.96,Americas,Fredericton Canada
+Rohtak India,76.58,28.9,Asia,Rohtak India
+Irbid Jordan,35.85,32.55,Asia,Irbid Jordan
+Exeter UK,-3.54,50.73,Europe,Exeter UK
+Hasanpur India,78.28,28.72,Asia,Hasanpur India
+Chandigarh India,76.78,30.75,Asia,Chandigarh India
+Castrop-Rauxel Germany,7.31,51.55,Europe,Castrop-Rauxel Germany
+Essen Germany,7,51.47,Europe,Essen Germany
+Oberhausen Germany,6.86,51.47,Europe,Oberhausen Germany
+Marsberg Germany,8.86,51.46,Europe,Marsberg Germany
+Remscheid Germany,7.19,51.18,Europe,Remscheid Germany
+Bergisch Gladbach Germany,7.15,50.98,Europe,Bergisch Gladbach Germany
+Bremen Germany,8.81,53.08,Europe,Bremen Germany
+Bochum Germany,7.2,51.48,Europe,Bochum Germany
+Lubbecke Germany,8.61,52.3,Europe,Lubbecke Germany
+Schwerin Germany,11.4,53.63,Europe,Schwerin Germany
+Mataro Spain,2.44,41.54,Europe,Mataro Spain
+Pokhara Nepal,83.99,28.22,Asia,Pokhara Nepal
+Biratnagar Nepal,87.28,26.46,Asia,Biratnagar Nepal
+Los Angeles USA,-118.41,34.11,Americas,Los Angeles USA
+Gandhinagar India,72.63,23.3,Asia,Gandhinagar India
+Varazdin Croatia,16.33,46.31,Europe,Varazdin Croatia
+Rijeka Croatia,14.44,45.33,Europe,Rijeka Croatia
+Bangkok Thailand,100.5,13.73,Asia,Bangkok Thailand
+Nakhon Pathom Thailand,100.06,13.82,Asia,Nakhon Pathom Thailand
+Le Kremlin-Bicetre France,2.33,48.81,Europe,Le Kremlin-Bicetre France
+Zielona Gora Poland,15.49,51.94,Europe,Zielona Gora Poland
+Northampton UK,-0.9,52.24,Europe,Northampton UK
+Stockport UK,-2.17,53.42,Europe,Stockport UK
+Prestwich UK,-2.28,53.53,Europe,Prestwich UK
+Tartu Estonia,26.71,58.38,Europe,Tartu Estonia
+Pardubice Czech Republic,15.77,50.03,Europe,Pardubice Czech Republic
+Murcia Spain,-1.13,37.98,Europe,Murcia Spain
+Gandra Portugal,-8.42,41.2,Europe,Gandra Portugal
+Victoria Canada,-123.37,48.43,Americas,Victoria Canada
+Victoria USA,-96.98,28.82,Americas,Victoria USA
+Zhongshan China,113.35,22.53,Asia,Zhongshan China
+Brumath France,7.72,48.73,Europe,Brumath France
+Saint-Etienne France,4.39,45.43,Europe,Saint-Etienne France
+Chalon-sur-Saone France,4.84,46.79,Europe,Chalon-sur-Saone France
+Laxou France,6.15,48.69,Europe,Laxou France
+Besancon France,6.02,47.24,Europe,Besancon France
+Benin Nigeria,5.62,6.34,Africa,Benin Nigeria
+Alexandria Egypt,29.95,31.22,Africa,Alexandria Egypt
+Waterloo Canada,-72.52,45.35,Americas,Waterloo Canada
+Umea Sweden,20.24,63.83,Europe,Umea Sweden
+Boca Raton USA,-80.11,26.37,Americas,Boca Raton USA
+Chaohu China,117.87,31.6,Asia,Chaohu China
+Hefei China,117.28,31.85,Asia,Hefei China
+Fuyang China,115.82,32.9,Asia,Fuyang China
+Decatur USA,-86.99,34.57,Americas,Decatur USA
+Goteborg Sweden,12.01,57.72,Europe,Goteborg Sweden
+Chiang Rai Thailand,99.83,19.91,Asia,Chiang Rai Thailand
+Nakhon Si Thammarat Thailand,99.97,8.4,Asia,Nakhon Si Thammarat Thailand
+Chanthaburi Thailand,102.11,12.61,Asia,Chanthaburi Thailand
+Saskatoon Canada,-106.66,52.15,Americas,Saskatoon Canada
+Sundsvall Sweden,17.33,62.4,Europe,Sundsvall Sweden
+Alexandria Canada,-74.63,45.3,Americas,Alexandria Canada
+Alexandria USA,-77.09,38.82,Americas,Alexandria USA
+Abuja Nigeria,7.17,9.18,Africa,Abuja Nigeria
+Dilla Ethiopia,38.31,6.41,Africa,Dilla Ethiopia
+Sendai Japan,140.89,38.26,Asia,Sendai Japan
+Mishima Japan,138.92,35.12,Asia,Mishima Japan
+Niigata Japan,139.04,37.92,Asia,Niigata Japan
+Nagoya Japan,136.91,35.15,Asia,Nagoya Japan
+Kodaira Japan,139.49,35.74,Asia,Kodaira Japan
+Zhuhai China,113.57,22.28,Asia,Zhuhai China
+Yajalon Mexico,-92.33,17.23,Americas,Yajalon Mexico
+Jalpa Mexico,-102.97,21.63,Americas,Jalpa Mexico
+Juarez Mexico,-100.08,25.65,Americas,Juarez Mexico
+Villahermosa Mexico,-92.92,17.98,Americas,Villahermosa Mexico
+Comalcalco Mexico,-93.22,18.27,Americas,Comalcalco Mexico
+Clermont Canada,-70.23,47.68,Americas,Clermont Canada
+Hong Denmark,11.3,55.52,Europe,Hong Denmark
+Los Andes Chile,-70.6,-32.83,Americas,Los Andes Chile
+Normal USA,-89,40.52,Americas,Normal USA
+Constanta Romania,28.63,44.18,Europe,Constanta Romania
+Coventry UK,-1.5,52.42,Europe,Coventry UK
+Kuala Terengganu Malaysia,103.14,5.33,Asia,Kuala Terengganu Malaysia
+Pattani Thailand,101.24,6.87,Asia,Pattani Thailand
+Trieste Italy,13.77,45.65,Europe,Trieste Italy
+Florence Italy,11.24,43.78,Europe,Florence Italy
+Richland USA,-119.29,46.29,Americas,Richland USA
+Lalitpur Nepal,85.32,27.68,Asia,Lalitpur Nepal
+Canberra Australia,149.13,-35.31,Oceania,Canberra Australia
+Kirikkale Turkey,33.52,39.85,Asia,Kirikkale Turkey
+Wauwatosa USA,-88.03,43.06,Americas,Wauwatosa USA
+Fullerton USA,-117.93,33.88,Americas,Fullerton USA
+Carleton Canada,-66.1,48.1,Americas,Carleton Canada
+Kaiserslautern Germany,7.75,49.45,Europe,Kaiserslautern Germany
+Pirmasens Germany,7.6,49.2,Europe,Pirmasens Germany
+Pesaro Italy,12.91,43.92,Europe,Pesaro Italy
+Urbino Italy,12.63,43.74,Europe,Urbino Italy
+Tours France,0.69,47.38,Europe,Tours France
+Tarnowskie Gory Poland,18.86,50.46,Europe,Tarnowskie Gory Poland
+Foggia Italy,15.55,41.47,Europe,Foggia Italy
+Mexico City Mexico,-99.14,19.43,Americas,Mexico City Mexico
+Hradec Kralove Czech Republic,15.82,50.22,Europe,Hradec Kralove Czech Republic
+Idstein Germany,8.26,50.24,Europe,Idstein Germany
+Orebro Sweden,15.22,59.28,Europe,Orebro Sweden
+Uberlandia Brazil,-48.28,-18.9,Americas,Uberlandia Brazil
+Dresden Canada,-82.17,42.58,Americas,Dresden Canada
+Richmond Canada,-72.15,45.67,Americas,Richmond Canada
+Oliver Canada,-119.55,49.18,Americas,Oliver Canada
+Thunder Bay Canada,-89.28,48.42,Americas,Thunder Bay Canada
+San Vicente Colombia,-75.34,6.23,Americas,San Vicente Colombia
+Oldenburg Germany,8.21,53.15,Europe,Oldenburg Germany
+Herdecke Germany,7.43,51.4,Europe,Herdecke Germany
+Witten Germany,7.34,51.44,Europe,Witten Germany
+Enugu Nigeria,7.5,6.33,Africa,Enugu Nigeria
+Uyo Nigeria,7.85,5.01,Africa,Uyo Nigeria
+Abakaliki Nigeria,8.11,6.33,Africa,Abakaliki Nigeria
+Split Croatia,16.45,43.51,Europe,Split Croatia
+Tabriz Iran,46.3,38.08,Asia,Tabriz Iran
+Shihezi China,86.03,44.3,Asia,Shihezi China
+Sokoto Nigeria,5.24,13.07,Africa,Sokoto Nigeria
+Zaria Nigeria,7.71,11.08,Africa,Zaria Nigeria
+Gombe Nigeria,11.17,10.29,Africa,Gombe Nigeria
+Zapopan Mexico,-103.4,20.72,Americas,Zapopan Mexico
+Egham UK,-0.57,51.43,Europe,Egham UK
+Kosice Slovakia,21.26,48.73,Europe,Kosice Slovakia
+Baden Switzerland,8.31,47.48,Europe,Baden Switzerland
+Monterotondo Italy,12.62,42.05,Europe,Monterotondo Italy
+Moncada Spain,-0.4,39.55,Europe,Moncada Spain
+Blacksburg USA,-80.43,37.23,Americas,Blacksburg USA
+Delhi Canada,-80.5,42.85,Americas,Delhi Canada
+Delhi India,77.21,28.67,Asia,Delhi India
+Tucheng Taiwan,121.44,24.98,Asia,Tucheng Taiwan
+Belfast UK,-5.93,54.6,Europe,Belfast UK
+Antrim UK,-6.23,54.72,Europe,Antrim UK
+Aachen Germany,6.09,50.77,Europe,Aachen Germany
+Guiyang China,106.72,26.58,Asia,Guiyang China
+Peterborough UK,-0.25,52.59,Europe,Peterborough UK
+Sohag Egypt,31.69,26.55,Africa,Sohag Egypt
+Chia Colombia,-74.07,4.87,Americas,Chia Colombia
+Largo USA,-82.78,27.91,Americas,Largo USA
+Santo Andre Brazil,-46.53,-23.65,Americas,Santo Andre Brazil
+Santo Andre Portugal,-8.74,38.05,Europe,Santo Andre Portugal
+Barreiro Portugal,-9.08,38.66,Europe,Barreiro Portugal
+Taylorsville USA,-111.94,40.66,Americas,Taylorsville USA
+Suzhou China,120.62,31.3,Asia,Suzhou China
+Nysa Poland,17.34,50.48,Europe,Nysa Poland
+Huangshi China,115.1,30.22,Asia,Huangshi China
+Bathinda India,74.97,30.17,Asia,Bathinda India
+Faridkot India,74.74,30.68,Asia,Faridkot India
+Noida India,77.33,28.58,Asia,Noida India
+Ghaziabad India,77.41,28.66,Asia,Ghaziabad India
+Holguin Cuba,-76.25,20.89,Americas,Holguin Cuba
+Everett USA,-122.2,47.96,Americas,Everett USA
+Hamamatsu Japan,137.73,34.72,Asia,Hamamatsu Japan
+Oxford Canada,-63.87,45.73,Americas,Oxford Canada
+Radcliffe UK,-2.32,53.57,Europe,Radcliffe UK
+Forest Canada,-82,43.1,Americas,Forest Canada
+Salem USA,-123.02,44.92,Americas,Salem USA
+York UK,-1.11,53.96,Europe,York UK
+Hammerfest Norway,23.71,70.68,Europe,Hammerfest Norway
+Bournemouth UK,-1.88,50.73,Europe,Bournemouth UK
+Pruszkow Poland,20.82,52.22,Europe,Pruszkow Poland
+Tarragona Spain,1.24,41.12,Europe,Tarragona Spain
+Bilbao Spain,-2.93,43.25,Europe,Bilbao Spain
+Kanpur India,80.33,26.47,Asia,Kanpur India
+Raipur India,81.63,21.24,Asia,Raipur India
+Jhansi India,78.56,25.45,Asia,Jhansi India
+Owerri Nigeria,7.02,5.5,Africa,Owerri Nigeria
+Chiayi Taiwan,120.43,23.48,Asia,Chiayi Taiwan
+Chieti Italy,14.16,42.35,Europe,Chieti Italy
+Wilmington USA,-75.53,39.74,Americas,Wilmington USA
+Zyrardow Poland,20.45,52.06,Europe,Zyrardow Poland
+Kettering USA,-84.15,39.7,Americas,Kettering USA
+Weiden Germany,12.16,49.68,Europe,Weiden Germany
+Limoges France,1.25,45.83,Europe,Limoges France
+Conakry Guinea,-13.67,9.55,Africa,Conakry Guinea
+Moncton Canada,-64.78,46.09,Americas,Moncton Canada
+Alexandria UK,-4.6,55.98,Europe,Alexandria UK
+Chatenay-Malabry France,2.27,48.78,Europe,Chatenay-Malabry France
+Dar es Salaam Tanzania,39.28,-6.82,Africa,Dar es Salaam Tanzania
+Changchun China,125.35,43.87,Asia,Changchun China
+Jilin China,126.55,43.85,Asia,Jilin China
+Boulder USA,-105.25,40.03,Americas,Boulder USA
+Kazan Russia,49.13,55.75,Europe,Kazan Russia
+Marmara Turkey,27.56,40.59,Asia,Marmara Turkey
+East London South Africa,27.87,-32.97,Africa,East London South Africa
+Leeds UK,-1.55,53.81,Europe,Leeds UK
+Valladolid Spain,-4.74,41.65,Europe,Valladolid Spain
+Aubiere France,3.11,45.76,Europe,Aubiere France
+Cluj-Napoca Romania,23.59,46.78,Europe,Cluj-Napoca Romania
+Bratislava Slovakia,17.13,48.16,Europe,Bratislava Slovakia
+Lugano Switzerland,8.94,46.01,Europe,Lugano Switzerland
+Bioggio Switzerland,8.88,46.02,Europe,Bioggio Switzerland
+Sofia Bulgaria,23.31,42.69,Europe,Sofia Bulgaria
+Campo Portugal,-7.91,40.7,Europe,Campo Portugal
+Geel Belgium,5,51.17,Europe,Geel Belgium
+San Luis Obispo USA,-120.66,35.27,Americas,San Luis Obispo USA
+Semey Kazakhstan,80.27,50.43,Asia,Semey Kazakhstan
+Rishikesh India,78.29,30.12,Asia,Rishikesh India
+Leioa Spain,-3,43.33,Europe,Leioa Spain
+Kuopio Finland,27.7,62.9,Europe,Kuopio Finland
+Perugia Italy,12.39,43.11,Europe,Perugia Italy
+Langenfeld Germany,6.95,51.11,Europe,Langenfeld Germany
+Herne Germany,7.21,51.54,Europe,Herne Germany
+Herborn Germany,8.31,50.69,Europe,Herborn Germany
+Dortmund Germany,7.48,51.51,Europe,Dortmund Germany
+Viersen Germany,6.4,51.26,Europe,Viersen Germany
+Munster Germany,10.08,53,Europe,Munster Germany
+Krefeld Germany,6.55,51.33,Europe,Krefeld Germany
+Neuss Germany,6.69,51.2,Europe,Neuss Germany
+Duren Germany,6.49,50.81,Europe,Duren Germany
+Segou Mali,-6.26,13.44,Africa,Segou Mali
+Croix France,3.14,50.67,Europe,Croix France
+Tourcoing France,3.16,50.72,Europe,Tourcoing France
+Saint-Louis France,7.55,47.6,Europe,Saint-Louis France
+Shijiazhuang China,114.48,38.05,Asia,Shijiazhuang China
+Ede Nigeria,4.52,7.73,Africa,Ede Nigeria
+Coral Gables USA,-80.26,25.7,Americas,Coral Gables USA
+Casablanca Morocco,-7.62,33.6,Africa,Casablanca Morocco
+Mantova Italy,10.79,45.16,Europe,Mantova Italy
+Manacor Spain,3.2,39.57,Europe,Manacor Spain
+Durham USA,-78.91,35.98,Americas,Durham USA
+Ponferrada Spain,-6.59,42.55,Europe,Ponferrada Spain
+Albacete Spain,-1.87,39,Europe,Albacete Spain
+Goiania Brazil,-49.26,-16.72,Americas,Goiania Brazil
+Horsham UK,-0.33,51.07,Europe,Horsham UK
+Bangor UK,-4.12,53.27,Europe,Bangor UK
+Wrexham UK,-3,53.05,Europe,Wrexham UK
+Puerto Real Spain,-6.2,36.53,Europe,Puerto Real Spain
+Sevilla Spain,-5.98,37.4,Europe,Sevilla Spain
+Sao Jose do Rio Preto Brazil,-49.39,-20.8,Americas,Sao Jose do Rio Preto Brazil
+Tuzla Bosnia and Herzegovina,18.67,44.54,Europe,Tuzla Bosnia and Herzegovina
+Palermo Italy,13.36,38.12,Europe,Palermo Italy
+Mostar Bosnia and Herzegovina,17.81,43.34,Europe,Mostar Bosnia and Herzegovina
+Saarbrucken Germany,6.97,49.25,Europe,Saarbrucken Germany
+Almelo Netherlands,6.65,52.36,Europe,Almelo Netherlands
+Bellinzona Switzerland,9.02,46.2,Europe,Bellinzona Switzerland
+Fuzhou China,119.3,26.08,Asia,Fuzhou China
+Inverness UK,-4.24,57.49,Europe,Inverness UK
+Darwin Australia,130.85,-12.43,Oceania,Darwin Australia
+Munchenbuchsee Switzerland,7.45,47.02,Europe,Munchenbuchsee Switzerland
+Chur Switzerland,9.53,46.86,Europe,Chur Switzerland
+Criciuma Brazil,-49.39,-28.68,Americas,Criciuma Brazil
+Nuremberg Germany,11.05,49.45,Europe,Nuremberg Germany
+Ishikawa Japan,140.45,37.14,Asia,Ishikawa Japan
+Kanazawa Japan,136.64,36.56,Asia,Kanazawa Japan
+Kyoto Japan,135.75,35.01,Asia,Kyoto Japan
+Monopoli Italy,17.28,40.95,Europe,Monopoli Italy
+Highland USA,-117.19,34.12,Americas,Highland USA
+New Brunswick USA,-74.45,40.49,Americas,New Brunswick USA
+Nakhon Ratchasima Thailand,102.1,15,Asia,Nakhon Ratchasima Thailand
+Khon Kaen Thailand,102.83,16.42,Asia,Khon Kaen Thailand
+Eugene USA,-123.11,44.05,Americas,Eugene USA
+Alcorcon Spain,-3.82,40.35,Europe,Alcorcon Spain
+Coslada Spain,-3.57,40.43,Europe,Coslada Spain
+Malaga Spain,-4.42,36.72,Europe,Malaga Spain
+Fargo USA,-96.82,46.88,Americas,Fargo USA
+Sanford USA,-81.28,28.79,Americas,Sanford USA
+Falun Sweden,15.62,60.61,Europe,Falun Sweden
+Manresa Spain,1.81,41.74,Europe,Manresa Spain
+Vic Spain,2.24,41.94,Europe,Vic Spain
+Peniche Portugal,-9.37,39.36,Europe,Peniche Portugal
+Novosibirsk Russia,82.93,55.04,Europe,Novosibirsk Russia
+Passo Fundo Brazil,-52.42,-28.25,Americas,Passo Fundo Brazil
+Zhanjiang China,110.38,21.2,Asia,Zhanjiang China
+Vaasa Finland,21.61,63.1,Europe,Vaasa Finland
+Colombes France,2.25,48.93,Europe,Colombes France
+Timisoara Romania,21.23,45.76,Europe,Timisoara Romania
+Kragujevac Serbia,20.92,44.02,Europe,Kragujevac Serbia
+Tirana Albania,19.82,41.33,Europe,Tirana Albania
+Serpong Indonesia,106.66,-6.32,Asia,Serpong Indonesia
+Tangerang Indonesia,106.63,-6.18,Asia,Tangerang Indonesia
+Samarinda Indonesia,117.15,-0.5,Asia,Samarinda Indonesia
+Sunshine Coast Australia,152.56,-25.88,Oceania,Sunshine Coast Australia
+Minsk Belarus,27.55,53.91,Europe,Minsk Belarus
+Sarajevo Bosnia and Herzegovina,18.38,43.85,Europe,Sarajevo Bosnia and Herzegovina
+Craiova Romania,23.82,44.33,Europe,Craiova Romania
+Niteroi Brazil,-43.13,-22.9,Americas,Niteroi Brazil
+Jena Germany,11.58,50.93,Europe,Jena Germany
+Tolentino Italy,13.27,43.21,Europe,Tolentino Italy
+Starogard Gdanski Poland,18.52,53.97,Europe,Starogard Gdanski Poland
+Alba Iulia Romania,23.57,46.08,Europe,Alba Iulia Romania
+Macae Brazil,-41.79,-22.38,Americas,Macae Brazil
+Fez Morocco,-5,34.05,Africa,Fez Morocco
+Irkutsk Russia,104.24,52.33,Europe,Irkutsk Russia
+Juiz de Fora Brazil,-43.36,-21.75,Americas,Juiz de Fora Brazil
+Petropolis Brazil,-43.2,-22.51,Americas,Petropolis Brazil
+Maceio Brazil,-35.75,-9.65,Americas,Maceio Brazil
+Joao Pessoa Brazil,-34.86,-7.12,Americas,Joao Pessoa Brazil
+Gyula Hungary,21.29,46.65,Europe,Gyula Hungary
+Tubingen Germany,9.06,48.53,Europe,Tubingen Germany
+Salvador Brazil,-38.5,-12.97,Americas,Salvador Brazil
+Champaign USA,-88.26,40.11,Americas,Champaign USA
+Cape Town South Africa,18.46,-33.93,Africa,Cape Town South Africa
+Bloemfontein South Africa,26.23,-29.15,Africa,Bloemfontein South Africa
+Pingtung Taiwan,120.48,22.68,Asia,Pingtung Taiwan
+Allentown USA,-75.48,40.6,Americas,Allentown USA
+Toms River USA,-74.17,39.94,Americas,Toms River USA
+Didcot UK,-1.25,51.6,Europe,Didcot UK
+Piracicaba Brazil,-47.64,-22.71,Americas,Piracicaba Brazil
+Monza Italy,9.27,45.58,Europe,Monza Italy
+Teresina Brazil,-42.8,-5.1,Americas,Teresina Brazil
+Windsor Canada,-83.03,42.3,Americas,Windsor Canada
+Mykolayiv Ukraine,23.98,49.51,Europe,Mykolayiv Ukraine
+Ioannina Greece,20.85,39.67,Europe,Ioannina Greece
+Sao Carlos Brazil,-47.89,-22.02,Americas,Sao Carlos Brazil
+Braganca Portugal,-6.76,41.81,Europe,Braganca Portugal
+Ulyanovsk Russia,48.4,54.33,Europe,Ulyanovsk Russia
+Tangara da Serra Brazil,-57.48,-14.63,Americas,Tangara da Serra Brazil
+Sosnowiec Poland,19.12,50.28,Europe,Sosnowiec Poland
+Gdansk Poland,18.64,54.36,Europe,Gdansk Poland
+Hanover Canada,-81.03,44.15,Americas,Hanover Canada
+Hanover Germany,9.73,52.4,Europe,Hanover Germany
+Banska Bystrica Slovakia,19.15,48.74,Europe,Banska Bystrica Slovakia
+Aveiro Portugal,-8.66,40.65,Europe,Aveiro Portugal
+Vitoria de Santo Antao Brazil,-35.3,-8.12,Americas,Vitoria de Santo Antao Brazil
+Depok Indonesia,110.41,-7.75,Asia,Depok Indonesia
+Arapiraca Brazil,-36.67,-9.75,Americas,Arapiraca Brazil
+Trento Italy,11.12,46.08,Europe,Trento Italy
+Plovdiv Bulgaria,24.75,42.15,Europe,Plovdiv Bulgaria
+Medan Indonesia,98.67,3.59,Asia,Medan Indonesia
+Vila Real Portugal,-7.75,41.31,Europe,Vila Real Portugal
+Mulhouse France,7.34,47.76,Europe,Mulhouse France
+Duque de Caxias Brazil,-43.31,-22.77,Americas,Duque de Caxias Brazil
+Sharjah United Arab Emirates,55.41,25.37,Asia,Sharjah United Arab Emirates
+Vladivostok Russia,131.9,43.13,Europe,Vladivostok Russia
+Divinopolis Brazil,-44.9,-20.15,Americas,Divinopolis Brazil
+Rivne Ukraine,26.25,50.62,Europe,Rivne Ukraine
+Pecs Hungary,18.22,46.08,Europe,Pecs Hungary
+Derby UK,-1.5,52.92,Europe,Derby UK
+Bauchi Nigeria,9.84,10.31,Africa,Bauchi Nigeria
+Lourdes France,-0.05,43.1,Europe,Lourdes France
+Drogheda Ireland,-6.36,53.72,Europe,Drogheda Ireland
+Parnu Estonia,24.51,58.38,Europe,Parnu Estonia
+Roskilde Denmark,12.09,55.65,Europe,Roskilde Denmark
+Bern Switzerland,7.44,46.95,Europe,Bern Switzerland
+Msida Malta,14.48,35.9,Europe,Msida Malta
+Debrecen Hungary,21.63,47.54,Europe,Debrecen Hungary
+Van Turkey,43.4,38.49,Asia,Van Turkey
+Adana Turkey,35.32,37,Asia,Adana Turkey
+Khartoum Sudan,32.52,15.58,Africa,Khartoum Sudan
+Mizan Teferi Ethiopia,35.58,7,Africa,Mizan Teferi Ethiopia
+Debre Tabor Ethiopia,38.01,11.86,Africa,Debre Tabor Ethiopia
+Bergamo Italy,9.67,45.7,Europe,Bergamo Italy
+Piastow Poland,20.92,52.21,Europe,Piastow Poland
+Trois-Rivieres Canada,-72.57,46.35,Americas,Trois-Rivieres Canada
+Tampa USA,-82.48,27.96,Americas,Tampa USA
+Georgetown USA,-97.69,30.65,Americas,Georgetown USA
+Dayton USA,-84.2,39.78,Americas,Dayton USA
+Malmo Sweden,13.02,55.61,Europe,Malmo Sweden
+Pescara Italy,14.21,42.46,Europe,Pescara Italy
+Raleigh USA,-78.66,35.82,Americas,Raleigh USA
+Ilorin Nigeria,4.53,8.5,Africa,Ilorin Nigeria
+Seattle USA,-122.35,47.62,Americas,Seattle USA
+Frontera Mexico,-92.65,18.58,Americas,Frontera Mexico
+Tapachula Mexico,-92.27,14.91,Americas,Tapachula Mexico
+Leon Mexico,-101.69,21.12,Americas,Leon Mexico
+San Nicolas de los Garza Mexico,-100.3,25.75,Americas,San Nicolas de los Garza Mexico
+Pamplona Colombia,-72.66,7.39,Americas,Pamplona Colombia
+Police Poland,14.56,53.55,Europe,Police Poland
+Wenzhou China,120.65,28.02,Asia,Wenzhou China
+Jiaxing China,120.75,30.77,Asia,Jiaxing China
+Catanzaro Italy,16.6,38.9,Europe,Catanzaro Italy
+Potenza Italy,15.79,40.66,Europe,Potenza Italy
+Nablus Palestine,35.26,32.23,Asia,Nablus Palestine
+Paterson USA,-74.16,40.91,Americas,Paterson USA
+Wayne USA,-74.25,40.95,Americas,Wayne USA
+Lievin France,2.77,50.42,Europe,Lievin France
+Tobu Japan,138.32,36.37,Asia,Tobu Japan
+Yokohama Japan,139.62,35.47,Asia,Yokohama Japan
+Atsugi Japan,139.36,35.45,Asia,Atsugi Japan
+Nagasaki Japan,129.88,32.75,Asia,Nagasaki Japan
+Hachioji Japan,139.33,35.66,Asia,Hachioji Japan
+Rodez France,2.57,44.36,Europe,Rodez France
+Clamart France,2.26,48.8,Europe,Clamart France
+Hyderabad India,78.48,17.4,Asia,Hyderabad India
+Nanaimo Canada,-123.97,49.21,Americas,Nanaimo Canada
+Kelowna Canada,-119.46,49.89,Americas,Kelowna Canada
+Guelph Canada,-80.26,43.56,Americas,Guelph Canada
+Uji Japan,135.8,34.9,Asia,Uji Japan
+Kasama Japan,140.25,36.38,Asia,Kasama Japan
+Saitama Japan,139.64,35.87,Asia,Saitama Japan
+Ibaraki Japan,135.57,34.81,Asia,Ibaraki Japan
+Osaka Japan,135.5,34.68,Asia,Osaka Japan
+Hiroshima Japan,132.44,34.39,Asia,Hiroshima Japan
+Bamako Mali,-7.99,12.65,Africa,Bamako Mali
+Oakland USA,-122.22,37.77,Americas,Oakland USA
+Bari Italy,16.87,41.12,Europe,Bari Italy
+Versailles France,2.14,48.81,Europe,Versailles France
+Saint-Quentin France,3.28,49.85,Europe,Saint-Quentin France
+Montrouge France,2.32,48.81,Europe,Montrouge France
+Gdynia Poland,18.53,54.52,Europe,Gdynia Poland
+Amriswil Switzerland,9.29,47.55,Europe,Amriswil Switzerland
+Pinto Spain,-3.7,40.24,Europe,Pinto Spain
+Camden USA,-75.11,39.94,Americas,Camden USA
+Glendale USA,-118.25,34.18,Americas,Glendale USA
+Ufa Russia,56.04,54.78,Europe,Ufa Russia
+Xuzhou China,117.18,34.27,Asia,Xuzhou China
+Suez Egypt,32.54,29.98,Africa,Suez Egypt
+Ismailia Egypt,32.26,30.59,Africa,Ismailia Egypt
+Saint Paul USA,-93.1,44.95,Americas,Saint Paul USA
+Altenburg Germany,12.44,51.01,Europe,Altenburg Germany
+Ferrol Spain,-8.24,43.49,Europe,Ferrol Spain
+A Coruna Spain,-8.42,43.33,Europe,A Coruna Spain
+Hautcharage Luxembourg,5.91,49.58,Europe,Hautcharage Luxembourg
+Montceau-les-Mines France,4.36,46.68,Europe,Montceau-les-Mines France
+Goppingen Germany,9.66,48.71,Europe,Goppingen Germany
+Catania Italy,15.08,37.5,Europe,Catania Italy
+Enna Italy,14.28,37.6,Europe,Enna Italy
+Hengchun Taiwan,120.6,24.37,Asia,Hengchun Taiwan
+Tashkent Uzbekistan,69.3,41.31,Asia,Tashkent Uzbekistan
+Ceske Budejovice Czech Republic,14.46,48.98,Europe,Ceske Budejovice Czech Republic
+Bytom Poland,18.91,50.35,Europe,Bytom Poland
+Kalisz Poland,18.1,51.77,Europe,Kalisz Poland
+Novo Hamburgo Brazil,-51.14,-29.71,Americas,Novo Hamburgo Brazil
+Sao Mateus Brazil,-39.86,-18.73,Americas,Sao Mateus Brazil
+Caxias do Sul Brazil,-51.17,-29.18,Americas,Caxias do Sul Brazil
+Beni Mellal Morocco,-6.37,32.35,Africa,Beni Mellal Morocco
+El Jadida Morocco,-8.51,33.26,Africa,El Jadida Morocco
+Bedford UK,-0.49,52.15,Europe,Bedford UK
+Perm Russia,56.25,58,Europe,Perm Russia
+Renton USA,-122.2,47.48,Americas,Renton USA
+Inirida Colombia,-67.92,3.87,Americas,Inirida Colombia
+Ottignies-Louvain-la-Neuve Belgium,4.56,50.67,Europe,Ottignies-Louvain-la-Neuve Belgium
+Zamora Spain,-5.75,41.52,Europe,Zamora Spain
+Saint Louis USA,-90.24,38.64,Americas,Saint Louis USA
+San Mateo USA,-122.31,37.56,Americas,San Mateo USA
+Lethbridge Canada,-112.83,49.69,Americas,Lethbridge Canada
+Portsmouth USA,-76.36,36.86,Americas,Portsmouth USA
+Omaha USA,-96.01,41.26,Americas,Omaha USA
+Brescia Italy,10.22,45.55,Europe,Brescia Italy
+Montigny-le-Bretonneux France,2.03,48.76,Europe,Montigny-le-Bretonneux France
+Turku Finland,22.25,60.45,Europe,Turku Finland
+Trnava Slovakia,17.58,48.38,Europe,Trnava Slovakia
+Espoo Finland,24.66,60.21,Europe,Espoo Finland
+Villenave-d'Ornon France,-0.56,44.76,Europe,Villenave-d'Ornon France
+Barranquilla Colombia,-74.8,10.96,Americas,Barranquilla Colombia
+Gurgaon India,77.01,28.47,Asia,Gurgaon India
+Groningen Netherlands,6.57,53.23,Europe,Groningen Netherlands
+Reykjavik Iceland,-21.92,64.14,Europe,Reykjavik Iceland
+Waterford Ireland,-7.13,52.26,Europe,Waterford Ireland
+Castello Spain,-0.05,39.97,Europe,Castello Spain
+Gold Coast Australia,153.44,-28.07,Oceania,Gold Coast Australia
+Abeokuta Nigeria,3.35,7.16,Africa,Abeokuta Nigeria
+Paterna Spain,-0.42,39.5,Europe,Paterna Spain
+Genoa Italy,8.93,44.42,Europe,Genoa Italy
+Salerno Italy,14.77,40.68,Europe,Salerno Italy
+Pontiac USA,-83.29,42.65,Americas,Pontiac USA
+Mathura India,77.68,27.5,Asia,Mathura India
+Jos Nigeria,8.89,9.93,Africa,Jos Nigeria
+Sydney Canada,-60.17,46.15,Americas,Sydney Canada
+New Haven USA,-72.92,41.31,Americas,New Haven USA
+Adelaide South Africa,26.29,-32.7,Africa,Adelaide South Africa
+Skopje North Macedonia,21.47,42,Europe,Skopje North Macedonia
+Duisburg Germany,6.75,51.43,Europe,Duisburg Germany
+Cambridge New Zealand,175.44,-37.88,Oceania,Cambridge New Zealand
+Peterborough Canada,-78.34,44.3,Americas,Peterborough Canada
+Palanga Lithuania,21.06,55.92,Europe,Palanga Lithuania
+Lubeck Germany,10.66,53.87,Europe,Lubeck Germany
+Yokosuka Japan,139.67,35.27,Asia,Yokosuka Japan
+Welwyn Garden City UK,-0.21,51.8,Europe,Welwyn Garden City UK
+San Gwann Malta,14.49,35.93,Europe,San Gwann Malta
+Gliwice Poland,18.67,50.31,Europe,Gliwice Poland
+Krems Austria,15.59,48.42,Europe,Krems Austria
+Rostock Germany,12.1,54.09,Europe,Rostock Germany
+Zaragoza Spain,-0.89,41.65,Europe,Zaragoza Spain
+Teruel Spain,-1.11,40.34,Europe,Teruel Spain
+Makurdi Nigeria,8.53,7.73,Africa,Makurdi Nigeria
+Macon France,4.81,46.31,Europe,Macon France
+Pomona USA,-117.76,34.06,Americas,Pomona USA
+Yaguajay Cuba,-79.23,22.32,Americas,Yaguajay Cuba
+Rouen France,1.08,49.44,Europe,Rouen France
+Bhopal India,77.4,23.24,Asia,Bhopal India
+Ranchi India,85.33,23.36,Asia,Ranchi India
+Tezpur India,92.79,26.63,Asia,Tezpur India
+Imphal India,93.94,24.79,Asia,Imphal India
+Jaipur India,75.8,26.92,Asia,Jaipur India
+Surat India,72.82,21.2,Asia,Surat India
+Pontevedra Spain,-8.66,42.42,Europe,Pontevedra Spain
+Poole UK,-1.98,50.72,Europe,Poole UK
+Bat Yam Israel,34.75,32.02,Asia,Bat Yam Israel
+Ashdod Israel,34.64,31.8,Asia,Ashdod Israel
+San Jose Colombia,-75.79,5.09,Americas,San Jose Colombia
+Cucuta Colombia,-72.51,7.88,Americas,Cucuta Colombia
+Cascavel Brazil,-53.46,-24.96,Americas,Cascavel Brazil
+Surgut Russia,73.42,61.25,Europe,Surgut Russia
+Townsville Australia,146.78,-19.26,Oceania,Townsville Australia
+Meaux France,2.88,48.96,Europe,Meaux France
+Lelystad Netherlands,5.45,52.52,Europe,Lelystad Netherlands
+Slupsk Poland,17.02,54.47,Europe,Slupsk Poland
+Bento Goncalves Brazil,-51.52,-29.17,Americas,Bento Goncalves Brazil
+Andes Colombia,-75.88,5.65,Americas,Andes Colombia
+Logrono Spain,-2.44,42.47,Europe,Logrono Spain
+Jerez Spain,-6.13,36.68,Europe,Jerez Spain
+Fuenlabrada Spain,-3.8,40.27,Europe,Fuenlabrada Spain
+Warwick UK,-1.59,52.29,Europe,Warwick UK
+Norwich UK,1.28,52.65,Europe,Norwich UK
+Tampere Finland,23.76,61.52,Europe,Tampere Finland
+Indianapolis USA,-86.15,39.78,Americas,Indianapolis USA
+Narino Colombia,-74.84,4.4,Americas,Narino Colombia
+Nizhnevartovsk Russia,76.57,60.93,Europe,Nizhnevartovsk Russia
+Newcastle upon Tyne UK,-1.6,55,Europe,Newcastle upon Tyne UK
+Dudley UK,-2.08,52.5,Europe,Dudley UK
+Penarth UK,-3.17,51.44,Europe,Penarth UK
+Brighton UK,-0.15,50.83,Europe,Brighton UK
+Boston UK,-0.02,52.99,Europe,Boston UK
+Medford USA,-71.11,42.42,Americas,Medford USA
+Erlangen Germany,11.01,49.6,Europe,Erlangen Germany
+Detroit USA,-83.1,42.38,Americas,Detroit USA
+Porirua New Zealand,174.85,-41.14,Oceania,Porirua New Zealand
+Denver USA,-104.87,39.77,Americas,Denver USA
+Portland Australia,141.59,-38.34,Oceania,Portland Australia
+Vercelli Italy,8.41,45.34,Europe,Vercelli Italy
+Tilburg Netherlands,5.07,51.57,Europe,Tilburg Netherlands
+Wicklow Ireland,-6.05,52.99,Europe,Wicklow Ireland
+Limerick Ireland,-8.63,52.67,Europe,Limerick Ireland
+Nanterre France,2.2,48.9,Europe,Nanterre France
+Pretoria South Africa,28.22,-25.73,Africa,Pretoria South Africa
+Aguascalientes Mexico,-102.3,21.88,Americas,Aguascalientes Mexico
+Curitiba Brazil,-49.29,-25.42,Americas,Curitiba Brazil
+Sao Jose dos Pinhais Brazil,-49.18,-25.57,Americas,Sao Jose dos Pinhais Brazil
+Muscat Oman,58.54,23.61,Asia,Muscat Oman
+Waco USA,-97.18,31.57,Americas,Waco USA
+Hawthorne USA,-118.35,33.91,Americas,Hawthorne USA
+Tucuman Argentina,-65.22,-26.83,Americas,Tucuman Argentina
+Omsk Russia,73.4,55,Europe,Omsk Russia
+Tomsk Russia,84.97,56.5,Europe,Tomsk Russia
+Vigodarzere Italy,11.88,45.45,Europe,Vigodarzere Italy
+Kostroma Russia,40.93,57.77,Europe,Kostroma Russia
+Banja Luka Bosnia and Herzegovina,17.19,44.78,Europe,Banja Luka Bosnia and Herzegovina
+Bariloche Argentina,-71.32,-41.14,Americas,Bariloche Argentina
+Concordia Argentina,-58.03,-31.39,Americas,Concordia Argentina
+Caldas Colombia,-75.65,6.11,Americas,Caldas Colombia
+Hidalgo Mexico,-105.67,26.93,Americas,Hidalgo Mexico
+Martin Slovakia,18.91,49.07,Europe,Martin Slovakia
+Bursa Turkey,29.08,40.2,Asia,Bursa Turkey
+Samaca Colombia,-73.49,5.49,Americas,Samaca Colombia
+Domodedovo Russia,37.75,55.43,Europe,Domodedovo Russia
+Poltava Ukraine,34.57,49.58,Europe,Poltava Ukraine
+Podgorica Montenegro,19.28,42.47,Europe,Podgorica Montenegro
+Januaria Brazil,-44.37,-15.48,Americas,Januaria Brazil
+Registro Brazil,-47.84,-24.49,Americas,Registro Brazil
+Mecca Saudi Arabia,39.82,21.43,Asia,Mecca Saudi Arabia
+Donetsk Ukraine,37.82,48,Europe,Donetsk Ukraine
+Sunderland UK,-1.39,54.91,Europe,Sunderland UK
+Novi Pazar Serbia,20.52,43.15,Europe,Novi Pazar Serbia
+Paranagua Brazil,-48.54,-25.51,Americas,Paranagua Brazil
+Cherepovets Russia,37.9,59.13,Europe,Cherepovets Russia
+Potsdam Germany,13.07,52.4,Europe,Potsdam Germany
+Gaspar Brazil,-48.96,-26.94,Americas,Gaspar Brazil
+Forli Italy,12.03,44.22,Europe,Forli Italy
+Zunyi China,106.92,27.7,Asia,Zunyi China
+Roswell USA,-104.53,33.37,Americas,Roswell USA
+Buffalo USA,-78.86,42.89,Americas,Buffalo USA
+Kashiwa Japan,139.97,35.87,Asia,Kashiwa Japan
+Chiba Japan,140.11,35.61,Asia,Chiba Japan
+Takamatsu Japan,134.04,34.34,Asia,Takamatsu Japan
+Kagawa Japan,134.03,34.23,Asia,Kagawa Japan
+Takahashi Japan,133.62,34.8,Asia,Takahashi Japan
+Jesi Italy,13.24,43.52,Europe,Jesi Italy
+Tyler USA,-95.3,32.33,Americas,Tyler USA
+Essen Belgium,4.47,51.47,Europe,Essen Belgium
+Piest'any Slovakia,17.82,48.6,Europe,Piest'any Slovakia
+Halle Germany,8.35,52.07,Europe,Halle Germany
+Arthur Canada,-80.53,43.83,Americas,Arthur Canada
+Karlstad Sweden,13.51,59.38,Europe,Karlstad Sweden
+Le Mans France,0.2,48,Europe,Le Mans France
+Pontoise France,2.09,49.05,Europe,Pontoise France
+Narbonne France,2.9,43.19,Europe,Narbonne France
+Chambly France,2.25,49.17,Europe,Chambly France
+Papeete French Polynesia,-149.56,-17.52,Oceania,Papeete French Polynesia
+Tavistock UK,-4.16,50.55,Europe,Tavistock UK
+Villeurbanne France,4.88,45.77,Europe,Villeurbanne France
+Vantaa Finland,25.04,60.29,Europe,Vantaa Finland
+Richardson USA,-96.71,32.97,Americas,Richardson USA
+Plymouth UK,-4.16,50.38,Europe,Plymouth UK
+Massy France,2.27,48.72,Europe,Massy France
+Castelldefels Spain,1.96,41.29,Europe,Castelldefels Spain
+Cornella Spain,2.06,41.37,Europe,Cornella Spain
+Catalao Brazil,-47.95,-18.18,Americas,Catalao Brazil
+Sevres France,2.21,48.82,Europe,Sevres France
+Milford USA,-73.06,41.23,Americas,Milford USA
+Waterbury USA,-73.04,41.56,Americas,Waterbury USA
+Wollongong Australia,150.87,-34.42,Oceania,Wollongong Australia
+Farmington USA,-108.19,36.75,Americas,Farmington USA
+Avellino Italy,14.79,40.92,Europe,Avellino Italy
+Portici Italy,14.34,40.81,Europe,Portici Italy
+Nagpur India,79.08,21.16,Asia,Nagpur India
+Cairns Australia,145.75,-16.92,Oceania,Cairns Australia
+Minden Germany,8.9,52.29,Europe,Minden Germany
+Guarda Portugal,-7.26,40.56,Europe,Guarda Portugal
+Colima Mexico,-103.73,19.24,Americas,Colima Mexico
+Vlaardingen Netherlands,4.33,51.92,Europe,Vlaardingen Netherlands
+Irvine USA,-117.8,33.66,Americas,Irvine USA
+Winterthur Switzerland,8.72,47.51,Europe,Winterthur Switzerland
+Wellington Australia,148.95,-32.56,Oceania,Wellington Australia
+Salekhard Russia,66.6,66.53,Europe,Salekhard Russia
+Ueda Japan,138.25,36.4,Asia,Ueda Japan
+Nagano Japan,138.18,36.65,Asia,Nagano Japan
+Maebashi Japan,139.06,36.39,Asia,Maebashi Japan
+Agueda Portugal,-8.44,40.57,Europe,Agueda Portugal
+Bristol USA,-72.94,41.68,Americas,Bristol USA
+Sao Joao Portugal,-8.59,40.87,Europe,Sao Joao Portugal
+Atlixco Mexico,-98.45,18.9,Americas,Atlixco Mexico
+Tlalnepantla Mexico,-99.19,19.54,Americas,Tlalnepantla Mexico
+Mackay Australia,149.18,-21.14,Oceania,Mackay Australia
+Farnborough UK,-0.76,51.3,Europe,Farnborough UK
+Loughborough UK,-1.22,52.77,Europe,Loughborough UK
+Sioux Falls USA,-96.73,43.54,Americas,Sioux Falls USA
+Apeldoorn Netherlands,5.96,52.22,Europe,Apeldoorn Netherlands
+Rosa Italy,12.88,45.92,Europe,Rosa Italy
+Viterbo Italy,12.09,42.42,Europe,Viterbo Italy
+Kielce Poland,20.65,50.89,Europe,Kielce Poland
+Piotrkow Trybunalski Poland,19.7,51.41,Europe,Piotrkow Trybunalski Poland
+Castelo Branco Portugal,-7.49,39.82,Europe,Castelo Branco Portugal
+Mechelen Belgium,4.47,51.03,Europe,Mechelen Belgium
+Bowie USA,-76.74,38.96,Americas,Bowie USA
+Palo Alto USA,-122.14,37.4,Americas,Palo Alto USA
+Oulu Finland,25.47,65.02,Europe,Oulu Finland
+Fribourg Switzerland,7.14,46.81,Europe,Fribourg Switzerland
+Illkirch-Graffenstaden France,7.7,48.53,Europe,Illkirch-Graffenstaden France
+Offenburg Germany,7.95,48.48,Europe,Offenburg Germany
+Abingdon UK,-1.29,51.68,Europe,Abingdon UK
+Salzburg Austria,13.04,47.81,Europe,Salzburg Austria
+Kent USA,-122.24,47.39,Americas,Kent USA
+Salt Spain,2.78,41.99,Europe,Salt Spain
+Paisley UK,-4.43,55.85,Europe,Paisley UK
+Orleans France,1.9,47.9,Europe,Orleans France
+West Palm Beach USA,-80.13,26.75,Americas,West Palm Beach USA
+Aracaju Brazil,-37.07,-10.91,Americas,Aracaju Brazil
+La Ceja Colombia,-75.44,6.04,Americas,La Ceja Colombia
+Galati Romania,28.04,45.44,Europe,Galati Romania
+Uppsala Sweden,17.64,59.86,Europe,Uppsala Sweden
+Cornelio Procopio Brazil,-50.65,-23.18,Americas,Cornelio Procopio Brazil
+Izola Slovenia,13.66,45.54,Europe,Izola Slovenia
+Viareggio Italy,10.24,43.89,Europe,Viareggio Italy
+Pietrasanta Italy,10.24,43.97,Europe,Pietrasanta Italy
+Lucca Italy,10.5,43.85,Europe,Lucca Italy
+Lowell USA,-71.32,42.64,Americas,Lowell USA
+Colchester UK,0.9,51.88,Europe,Colchester UK
+Vicosa Brazil,-42.88,-20.76,Americas,Vicosa Brazil
+Girne Cyprus,33.33,35.33,Asia,Girne Cyprus
+Santiago Colombia,-72.72,7.87,Americas,Santiago Colombia
+Cali Colombia,-76.52,3.44,Americas,Cali Colombia
+San Buenaventura USA,-119.26,34.27,Americas,San Buenaventura USA
+Showa Japan,139.8,35.99,Asia,Showa Japan
+Saltillo Mexico,-101,25.42,Americas,Saltillo Mexico
+Orizaba Mexico,-97.1,18.83,Americas,Orizaba Mexico
+Ambato Ecuador,-78.62,-1.24,Americas,Ambato Ecuador
+Manhattan USA,-96.59,39.19,Americas,Manhattan USA
+Czestochowa Poland,19.13,50.81,Europe,Czestochowa Poland
+Khanty-Mansiysk Russia,69,61,Europe,Khanty-Mansiysk Russia
+Tunceli Turkey,39.55,39.1,Asia,Tunceli Turkey
+Ostrava Czech Republic,18.27,49.83,Europe,Ostrava Czech Republic
+Chungli Taiwan,121.22,24.96,Asia,Chungli Taiwan
+Santos Brazil,-46.33,-23.95,Americas,Santos Brazil
+Osijek Croatia,18.68,45.55,Europe,Osijek Croatia
+Barnaul Russia,83.75,53.36,Europe,Barnaul Russia
+Boa Vista Brazil,-60.66,2.83,Americas,Boa Vista Brazil
+Serra Brazil,-40.32,-20.13,Americas,Serra Brazil
+Santiago Brazil,-54.88,-29.18,Americas,Santiago Brazil
+Vigo Spain,-8.71,42.22,Europe,Vigo Spain
+Castres France,2.23,43.61,Europe,Castres France
+Macclesfield UK,-2.15,53.27,Europe,Macclesfield UK
+Funabashi Japan,139.99,35.7,Asia,Funabashi Japan
+Asahi Japan,140.65,35.72,Asia,Asahi Japan
+Tsu Japan,136.51,34.72,Asia,Tsu Japan
+Chita Russia,113.46,52.05,Europe,Chita Russia
+Koltsovo Russia,60.82,56.76,Europe,Koltsovo Russia
+Slagelse Denmark,11.34,55.41,Europe,Slagelse Denmark
+Uzhhorod Ukraine,22.3,48.62,Europe,Uzhhorod Ukraine
+Vienne France,4.87,45.53,Europe,Vienne France
+Arlesheim Switzerland,7.61,47.49,Europe,Arlesheim Switzerland
+Monforte de Lemos Spain,-7.51,42.53,Europe,Monforte de Lemos Spain
+Lugo Spain,-7.56,43.02,Europe,Lugo Spain
+Temuco Chile,-72.58,-38.73,Americas,Temuco Chile
+Iasi Romania,27.57,47.17,Europe,Iasi Romania
+Jakarta Indonesia,106.83,-6.18,Asia,Jakarta Indonesia
+Ivry-sur-Seine France,2.38,48.82,Europe,Ivry-sur-Seine France
+Jupiter USA,-80.1,26.92,Americas,Jupiter USA
+San Marcos USA,-97.93,29.88,Americas,San Marcos USA
+Pozzuoli Italy,14.12,40.83,Europe,Pozzuoli Italy
+Getafe Spain,-3.73,40.3,Europe,Getafe Spain
+Lomonosov Russia,29.75,59.91,Europe,Lomonosov Russia
+Sheffield UK,-1.48,53.39,Europe,Sheffield UK
+Concord USA,-122,37.97,Americas,Concord USA
+Downers Grove USA,-88.02,41.8,Americas,Downers Grove USA
+Morioka Japan,141.15,39.7,Asia,Morioka Japan
+Athlone Ireland,-7.95,53.42,Europe,Athlone Ireland
+Celbridge Ireland,-6.55,53.33,Europe,Celbridge Ireland
+Kildare Ireland,-6.99,53.16,Europe,Kildare Ireland
+Lancaster USA,-118.18,34.69,Americas,Lancaster USA
+Brugge Belgium,3.23,51.22,Europe,Brugge Belgium
+Aalst Belgium,4.03,50.93,Europe,Aalst Belgium
+Magdeburg Germany,11.62,52.13,Europe,Magdeburg Germany
+Umuarama Brazil,-53.32,-23.76,Americas,Umuarama Brazil
+Genzano di Roma Italy,12.67,41.71,Europe,Genzano di Roma Italy
+La Roche-sur-Yon France,-1.44,46.67,Europe,La Roche-sur-Yon France
+Quimper France,-4.11,47.99,Europe,Quimper France
+Saint-Nazaire France,-2.22,47.28,Europe,Saint-Nazaire France
+Konstanz Germany,9.17,47.68,Europe,Konstanz Germany
+Abu Dis Palestine,35.27,31.76,Asia,Abu Dis Palestine
+Tokai Japan,136.89,35.03,Asia,Tokai Japan
+Goulburn Australia,149.71,-34.75,Oceania,Goulburn Australia
+Perth UK,-3.47,56.4,Europe,Perth UK
+Lopik Netherlands,4.95,51.98,Europe,Lopik Netherlands
+Mitaka Japan,139.57,35.68,Asia,Mitaka Japan
+Kobe Japan,135.17,34.68,Asia,Kobe Japan
+Koshigaya Japan,139.79,35.89,Asia,Koshigaya Japan
+Lancaster UK,-2.8,54.05,Europe,Lancaster UK
+Himeji Japan,134.69,34.83,Asia,Himeji Japan
+Greenville USA,-82.37,34.84,Americas,Greenville USA
+Manizales Colombia,-75.52,5.06,Americas,Manizales Colombia
+Edirne Turkey,26.56,41.69,Asia,Edirne Turkey
+Milas Turkey,27.77,37.32,Asia,Milas Turkey
+Opole Poland,17.94,50.68,Europe,Opole Poland
+Beaumont USA,-94.14,30.09,Americas,Beaumont USA
+Burlington USA,-79.45,36.08,Americas,Burlington USA
+Tonsberg Norway,10.42,59.27,Europe,Tonsberg Norway
+Sceaux France,2.29,48.78,Europe,Sceaux France
+Duzce Turkey,31.15,40.85,Asia,Duzce Turkey
+Pawtucket USA,-71.37,41.87,Americas,Pawtucket USA
+Warren USA,-83.03,42.49,Americas,Warren USA
+Crewe UK,-2.45,53.08,Europe,Crewe UK
+Alba Italy,8.03,44.71,Europe,Alba Italy
+Saluzzo Italy,7.48,44.65,Europe,Saluzzo Italy
+Patrocinio Brazil,-47,-18.93,Americas,Patrocinio Brazil
+Palhoca Brazil,-48.68,-27.64,Americas,Palhoca Brazil
+Carrickfergus UK,-5.8,54.73,Europe,Carrickfergus UK
+Wheaton USA,-88.11,41.86,Americas,Wheaton USA
+Racine USA,-87.81,42.73,Americas,Racine USA
+Edmond USA,-97.41,35.67,Americas,Edmond USA
+Feldkirch Austria,9.59,47.25,Europe,Feldkirch Austria
+Innsbruck Austria,11.41,47.28,Europe,Innsbruck Austria
+Rankweil Austria,9.65,47.28,Europe,Rankweil Austria
+Rockville USA,-77.15,39.08,Americas,Rockville USA
+Ondo Nigeria,4.84,7.09,Africa,Ondo Nigeria
+Sao Leopoldo Brazil,-51.15,-29.78,Americas,Sao Leopoldo Brazil
+Sao Pedro Brazil,-47.9,-22.56,Americas,Sao Pedro Brazil
+Zlin Czech Republic,17.65,49.23,Europe,Zlin Czech Republic
+Vila Nova de Gaia Portugal,-8.63,41.14,Europe,Vila Nova de Gaia Portugal
+Foz do Iguacu Brazil,-54.58,-25.55,Americas,Foz do Iguacu Brazil
+Greifswald Germany,13.39,54.09,Europe,Greifswald Germany
+Siauliai Lithuania,23.32,55.93,Europe,Siauliai Lithuania
+Cosenza Italy,16.26,39.29,Europe,Cosenza Italy
+Stanley UK,-1.71,54.87,Europe,Stanley UK
+Bloomington USA,-86.52,39.17,Americas,Bloomington USA
+West Haven USA,-72.97,41.27,Americas,West Haven USA
+San Martin Colombia,-73.69,3.69,Americas,San Martin Colombia
+Gillingham UK,0.55,51.39,Europe,Gillingham UK
+Carmen Mexico,-91.83,18.63,Americas,Carmen Mexico
+Nuevo Laredo Mexico,-99.51,27.48,Americas,Nuevo Laredo Mexico
+Ouagadougou Burkina Faso,-1.53,12.37,Africa,Ouagadougou Burkina Faso
+Kolo Poland,18.64,52.2,Europe,Kolo Poland
+Kerman Iran,57.08,30.3,Asia,Kerman Iran
+Gifu Japan,136.76,35.42,Asia,Gifu Japan
+Kakamigahara Japan,136.89,35.41,Asia,Kakamigahara Japan
+Tajimi Japan,137.13,35.33,Asia,Tajimi Japan
+Hattiesburg USA,-89.31,31.31,Americas,Hattiesburg USA
+Sargodha Pakistan,72.67,32.08,Asia,Sargodha Pakistan
+Oviedo Spain,-5.83,43.35,Europe,Oviedo Spain
+Puebla Mexico,-98.22,19.05,Americas,Puebla Mexico
+Dubendorf Switzerland,8.63,47.4,Europe,Dubendorf Switzerland
+Timaru New Zealand,171.22,-44.38,Oceania,Timaru New Zealand
+Charleston USA,-79.99,32.79,Americas,Charleston USA
+Tijuana Mexico,-117.02,32.53,Americas,Tijuana Mexico
+Hollywood USA,-80.16,26.03,Americas,Hollywood USA
+Mission USA,-98.32,26.21,Americas,Mission USA
+Vicuna Chile,-70.74,-30.03,Americas,Vicuna Chile
+Winnipeg Canada,-97.17,49.88,Americas,Winnipeg Canada
+Farroupilha Brazil,-51.35,-29.23,Americas,Farroupilha Brazil
+Denton USA,-97.13,33.21,Americas,Denton USA
+Denton UK,-2.12,53.45,Europe,Denton UK
+Narita Japan,140.32,35.79,Asia,Narita Japan
+Mashhad Iran,59.57,36.27,Asia,Mashhad Iran
+Portsmouth UK,-1.09,50.81,Europe,Portsmouth UK
+Aldershot UK,-0.77,51.26,Europe,Aldershot UK
+L'Aquila Italy,13.39,42.35,Europe,L'Aquila Italy
+Silver Spring USA,-77.02,39.01,Americas,Silver Spring USA
+Gais Switzerland,9.45,47.37,Europe,Gais Switzerland
+Port Elizabeth South Africa,25.59,-33.96,Africa,Port Elizabeth South Africa
+Chernogolovka Russia,38.37,56,Europe,Chernogolovka Russia
+Hempstead USA,-73.62,40.7,Americas,Hempstead USA
+Aigaleo Greece,23.68,37.98,Europe,Aigaleo Greece
+Kallithea Greece,23.7,37.95,Europe,Kallithea Greece
+Kayseri Turkey,35.48,38.74,Asia,Kayseri Turkey
+Wuxi China,120.3,31.58,Asia,Wuxi China
+Bombay India,72.82,18.96,Asia,Bombay India
+Roanoke USA,-79.96,37.28,Americas,Roanoke USA
+Cochabamba Bolivia,-66.17,-17.38,Americas,Cochabamba Bolivia
+Eiken Switzerland,7.98,47.53,Europe,Eiken Switzerland
+Ogbomosho Nigeria,4.18,8.08,Africa,Ogbomosho Nigeria
+Stamford USA,-73.55,41.1,Americas,Stamford USA
+Frederick USA,-77.42,39.43,Americas,Frederick USA
+Canterbury UK,1.07,51.29,Europe,Canterbury UK
+Alfenas Brazil,-45.95,-21.41,Americas,Alfenas Brazil
+Birjand Iran,59.22,32.88,Asia,Birjand Iran
+Basingstoke UK,-1.11,51.27,Europe,Basingstoke UK
+Woodland USA,-121.77,38.68,Americas,Woodland USA
+Uden Netherlands,5.61,51.67,Europe,Uden Netherlands
+Heerlen Netherlands,5.97,50.88,Europe,Heerlen Netherlands
+Kigali Rwanda,30.06,-1.94,Africa,Kigali Rwanda
+Varanasi India,83.01,25.32,Asia,Varanasi India
+Bad Vilbel Germany,8.74,50.19,Europe,Bad Vilbel Germany
+Cochrane Canada,-114.47,51.19,Americas,Cochrane Canada
+Preston UK,-2.73,53.76,Europe,Preston UK
+Fresno USA,-119.79,36.78,Americas,Fresno USA
+Clovis USA,-119.7,36.82,Americas,Clovis USA
+Conway USA,-92.45,35.09,Americas,Conway USA
+Malov Denmark,12.33,55.75,Europe,Malov Denmark
+Thanjavur India,79.13,10.79,Asia,Thanjavur India
+Ryazan Russia,39.74,54.62,Europe,Ryazan Russia
+Hamilton Australia,142.02,-37.73,Oceania,Hamilton Australia
+Terrace Canada,-128.61,54.52,Americas,Terrace Canada
+Anderson USA,-85.69,40.09,Americas,Anderson USA
+Baton Rouge USA,-91.13,30.45,Americas,Baton Rouge USA
+Tallahassee USA,-84.28,30.46,Americas,Tallahassee USA
+Arusha Tanzania,36.67,-3.36,Africa,Arusha Tanzania
+Allen USA,-96.67,33.11,Americas,Allen USA
+Palmas Brazil,-48.31,-10.27,Americas,Palmas Brazil
+Neuchatel Switzerland,6.92,47.01,Europe,Neuchatel Switzerland
+Tarapoto Peru,-76.48,-6.51,Americas,Tarapoto Peru
+Olten Switzerland,7.9,47.37,Europe,Olten Switzerland
+Mona Jamaica,-76.73,18,Americas,Mona Jamaica
+Kingston Jamaica,-76.8,17.99,Americas,Kingston Jamaica
+Hillerod Denmark,12.3,55.93,Europe,Hillerod Denmark
+Fisciano Italy,14.79,40.77,Europe,Fisciano Italy
+Asheville USA,-82.55,35.57,Americas,Asheville USA
+Hartford USA,-72.68,41.77,Americas,Hartford USA
+Huelva Spain,-6.94,37.25,Europe,Huelva Spain
+Pavlodar Kazakhstan,76.95,52.3,Asia,Pavlodar Kazakhstan
+Alexandria Italy,8.61,44.92,Europe,Alexandria Italy
+Wil Switzerland,9.03,47.47,Europe,Wil Switzerland
+Guildford UK,-0.58,51.24,Europe,Guildford UK
+Oldham UK,-2.12,53.55,Europe,Oldham UK
+Delft Netherlands,4.36,52.01,Europe,Delft Netherlands
+Hildesheim Germany,9.95,52.16,Europe,Hildesheim Germany
+Santa Cruz USA,-122.04,36.97,Americas,Santa Cruz USA
+Pontypridd UK,-3.35,51.61,Europe,Pontypridd UK
+Cacoal Brazil,-61.42,-11.5,Americas,Cacoal Brazil
+Maiduguri Nigeria,13.16,11.85,Africa,Maiduguri Nigeria
+Usti nad Labem Czech Republic,14.02,50.67,Europe,Usti nad Labem Czech Republic
+Pantin France,2.41,48.9,Europe,Pantin France
+Kumluca Turkey,30.28,36.37,Asia,Kumluca Turkey
+Antalya Turkey,30.71,36.89,Asia,Antalya Turkey
+Marilia Brazil,-49.95,-22.21,Americas,Marilia Brazil
+Saransk Russia,45.18,54.18,Europe,Saransk Russia
+Sao Luis Brazil,-44.3,-2.5,Americas,Sao Luis Brazil
+Tulsa USA,-95.92,36.13,Americas,Tulsa USA
+Syktyvkar Russia,50.81,61.67,Europe,Syktyvkar Russia
+Skovde Sweden,13.84,58.38,Europe,Skovde Sweden
+Lund Sweden,13.2,55.71,Europe,Lund Sweden
+Kirkcaldy UK,-3.16,57.14,Europe,Kirkcaldy UK
+Livingston UK,-3.5,55.91,Europe,Livingston UK
+Concepcion Chile,-73.05,-36.83,Americas,Concepcion Chile
+Sumy Ukraine,34.78,50.92,Europe,Sumy Ukraine
+Uberaba Brazil,-47.94,-19.76,Americas,Uberaba Brazil
+Bello Colombia,-75.57,6.33,Americas,Bello Colombia
+Queretaro Mexico,-100.4,20.59,Americas,Queretaro Mexico
+Patos de Minas Brazil,-46.52,-18.58,Americas,Patos de Minas Brazil
+Kaliningrad Russia,20.5,54.71,Europe,Kaliningrad Russia
+Tangier Morocco,-5.81,35.79,Africa,Tangier Morocco
+Sarno Italy,14.61,40.82,Europe,Sarno Italy
+Chinon France,0.25,47.17,Europe,Chinon France
+Pereira Colombia,-75.68,4.81,Americas,Pereira Colombia
+Risaralda Colombia,-75.77,5.17,Americas,Risaralda Colombia
+Tyumen Russia,65.53,57.15,Europe,Tyumen Russia
+Moroyama Japan,139.33,35.94,Asia,Moroyama Japan
+Berkeley USA,-122.27,37.87,Americas,Berkeley USA
+Torri di Quartesolo Italy,11.62,45.52,Europe,Torri di Quartesolo Italy
+Vicenza Italy,11.54,45.55,Europe,Vicenza Italy
+Bethlehem USA,-75.37,40.63,Americas,Bethlehem USA
+Araraquara Brazil,-48.13,-21.75,Americas,Araraquara Brazil
+Hackensack USA,-74.05,40.89,Americas,Hackensack USA
+Cartagena Colombia,-75.5,10.4,Americas,Cartagena Colombia
+Chaves Portugal,-7.47,41.74,Europe,Chaves Portugal
+San Ignacio Peru,-79,-5.14,Americas,San Ignacio Peru
+Cordoba Colombia,-77.52,0.86,Americas,Cordoba Colombia
+Cordoba Mexico,-96.92,18.89,Americas,Cordoba Mexico
+Cabo San Lucas Mexico,-109.9,22.88,Americas,Cabo San Lucas Mexico
+Nueva Granada Colombia,-74.39,9.8,Americas,Nueva Granada Colombia
+Oshawa Canada,-78.86,43.89,Americas,Oshawa Canada
+Dire Dawa Ethiopia,41.86,9.59,Africa,Dire Dawa Ethiopia
+Dunfermline UK,-3.46,56.07,Europe,Dunfermline UK
+Valparaiso Chile,-71.64,-33.04,Americas,Valparaiso Chile
+Valparaiso Mexico,-103.57,22.77,Americas,Valparaiso Mexico
+Santiago Mexico,-100.14,25.41,Americas,Santiago Mexico
+Winston-Salem USA,-80.26,36.1,Americas,Winston-Salem USA
+Albuquerque USA,-106.62,35.12,Americas,Albuquerque USA
+Siena Italy,11.32,43.33,Europe,Siena Italy
+Terni Italy,12.65,42.57,Europe,Terni Italy
+Ingelheim Germany,8.06,49.98,Europe,Ingelheim Germany
+Bad Neuenahr-Ahrweiler Germany,7.13,50.55,Europe,Bad Neuenahr-Ahrweiler Germany
+Heredia Costa Rica,-84.12,10,Americas,Heredia Costa Rica
+Tetouan Morocco,-5.37,35.58,Africa,Tetouan Morocco
+Saratov Russia,46.03,51.57,Europe,Saratov Russia
+Cheltenham UK,-2.09,51.9,Europe,Cheltenham UK
+Ekpoma Nigeria,6.13,6.75,Africa,Ekpoma Nigeria
+Kano Nigeria,8.52,12,Africa,Kano Nigeria
+Freetown Sierra Leone,-13.24,8.49,Africa,Freetown Sierra Leone
+Irrua Nigeria,6.21,6.73,Africa,Irrua Nigeria
+Zefat Israel,35.51,32.97,Asia,Zefat Israel
+Clichy France,2.3,48.91,Europe,Clichy France
+Aracatuba Brazil,-50.45,-21.21,Americas,Aracatuba Brazil
+Sobral Brazil,-40.35,-3.69,Americas,Sobral Brazil
+Parnaiba Brazil,-41.77,-2.91,Americas,Parnaiba Brazil
+Santa Rosa USA,-122.7,38.45,Americas,Santa Rosa USA
+Karnal India,76.97,29.69,Asia,Karnal India
+Pune India,73.84,18.53,Asia,Pune India
+Pondicherry India,79.83,11.94,Asia,Pondicherry India
+Amadora Portugal,-9.24,38.75,Europe,Amadora Portugal
+Bad Zwischenahn Germany,8,53.19,Europe,Bad Zwischenahn Germany
+Johannesburg South Africa,28.04,-26.19,Africa,Johannesburg South Africa
+Khorramabad Iran,48.35,33.48,Asia,Khorramabad Iran
+Bamberg Germany,10.9,49.9,Europe,Bamberg Germany
+Brest France,-4.5,48.39,Europe,Brest France
+Madalena Portugal,-8.32,41.22,Europe,Madalena Portugal
+Sombor Serbia,19.12,45.78,Europe,Sombor Serbia
+Thimphu Bhutan,89.7,27.48,Asia,Thimphu Bhutan
+Maua Brazil,-46.46,-23.66,Americas,Maua Brazil
+Penzberg Germany,11.38,47.76,Europe,Penzberg Germany
+Antofagasta Chile,-70.39,-23.65,Americas,Antofagasta Chile
+Arica Chile,-70.3,-18.49,Americas,Arica Chile
+Cedar Park USA,-97.83,30.51,Americas,Cedar Park USA
+Tallinn Estonia,24.74,59.44,Europe,Tallinn Estonia
+Pantelimon Romania,26.2,44.45,Europe,Pantelimon Romania
+Messina Italy,15.55,38.19,Europe,Messina Italy
+Kochi Japan,133.54,33.56,Asia,Kochi Japan
+Bridgeport USA,-73.2,41.19,Americas,Bridgeport USA
+Shelton USA,-73.14,41.3,Americas,Shelton USA
+Wilmslow UK,-2.23,53.34,Europe,Wilmslow UK
+Hampton USA,-76.29,37.05,Americas,Hampton USA
+Syracuse USA,-76.14,43.04,Americas,Syracuse USA
+Santa Marta Colombia,-74.19,11.26,Americas,Santa Marta Colombia
+Arcozelo Portugal,-8.63,41.07,Europe,Arcozelo Portugal
+Ascoli Piceno Italy,13.58,42.86,Europe,Ascoli Piceno Italy
+Eeklo Belgium,3.57,51.18,Europe,Eeklo Belgium
+Herentals Belgium,4.83,51.18,Europe,Herentals Belgium
+Lecce Italy,18.16,40.36,Europe,Lecce Italy
+Izmir Turkey,27.15,38.43,Asia,Izmir Turkey
+Nowy Targ Poland,20.03,49.49,Europe,Nowy Targ Poland
+Vodnany Czech Republic,14.18,49.15,Europe,Vodnany Czech Republic
+Hjorring Denmark,9.98,57.46,Europe,Hjorring Denmark
+Nelson Canada,-117.3,49.49,Americas,Nelson Canada
+Torrance USA,-118.34,33.83,Americas,Torrance USA
+Durham UK,-1.6,54.78,Europe,Durham UK
+Euclid USA,-81.52,41.59,Americas,Euclid USA
+Ravensburg Germany,9.6,47.79,Europe,Ravensburg Germany
+Weingarten Germany,9.63,47.81,Europe,Weingarten Germany
+Jyvaskyla Finland,25.75,62.26,Europe,Jyvaskyla Finland
+Simoes Filho Brazil,-38.4,-12.82,Americas,Simoes Filho Brazil
+Bolivar Colombia,-76.97,1.84,Americas,Bolivar Colombia
+Zitiste Serbia,20.55,45.49,Europe,Zitiste Serbia
+Novokuznetsk Russia,87.1,53.75,Europe,Novokuznetsk Russia
+Abu Dhabi United Arab Emirates,54.37,24.48,Asia,Abu Dhabi United Arab Emirates
+Ouro Preto Brazil,-43.51,-20.38,Americas,Ouro Preto Brazil
+Bar Ukraine,27.67,49.07,Europe,Bar Ukraine
+Konin Poland,18.25,52.21,Europe,Konin Poland
+Ross-on-Wye UK,-2.57,51.92,Europe,Ross-on-Wye UK
+Mar del Plata Argentina,-57.58,-38,Americas,Mar del Plata Argentina
+Jimma Ethiopia,36.83,7.68,Africa,Jimma Ethiopia
+Almeria Spain,-2.43,36.83,Europe,Almeria Spain
+Borehamwood UK,-0.28,51.66,Europe,Borehamwood UK
+Halle Belgium,4.23,50.73,Europe,Halle Belgium
+Sesto Fiorentino Italy,11.19,43.84,Europe,Sesto Fiorentino Italy
+Toledo Spain,-4.03,39.86,Europe,Toledo Spain
+Hat Yai Thailand,100.47,7,Asia,Hat Yai Thailand
+Songkhla Thailand,100.56,7.21,Asia,Songkhla Thailand
+Nitra Slovakia,18.08,48.31,Europe,Nitra Slovakia
+Saldana Colombia,-75.02,3.94,Americas,Saldana Colombia
+San Francisco Colombia,-74.29,4.98,Americas,San Francisco Colombia
+Huntington USA,-82.43,38.41,Americas,Huntington USA
+Aswan Egypt,32.92,24.08,Africa,Aswan Egypt
+Braunton UK,-4.18,51.1,Europe,Braunton UK
+Barnstaple UK,-4.06,51.09,Europe,Barnstaple UK
+Garland USA,-96.63,32.91,Americas,Garland USA
+Calabar Nigeria,8.31,4.96,Africa,Calabar Nigeria
+Morpeth UK,-1.68,55.17,Europe,Morpeth UK
+Middlesbrough UK,-1.23,54.58,Europe,Middlesbrough UK
+Tsukuba Japan,140.09,36.21,Asia,Tsukuba Japan
+Mito Japan,140.47,36.38,Asia,Mito Japan
+Bayreuth Germany,11.58,49.95,Europe,Bayreuth Germany
+Nanchong China,106.13,30.78,Asia,Nanchong China
+Santo Tomas Colombia,-74.75,10.76,Americas,Santo Tomas Colombia
+Epalinges Switzerland,6.67,46.56,Europe,Epalinges Switzerland
+Kiev Ukraine,30.52,50.43,Europe,Kiev Ukraine
+Florida Uruguay,-56.22,-34.1,Americas,Florida Uruguay
+Tokushima Japan,134.55,34.07,Asia,Tokushima Japan
+Independence USA,-94.35,39.09,Americas,Independence USA
+Clifton USA,-74.16,40.86,Americas,Clifton USA
+DeKalb USA,-88.75,41.93,Americas,DeKalb USA
+Eskisehir Turkey,30.52,39.79,Asia,Eskisehir Turkey
+Kirsehir Turkey,34.16,39.15,Asia,Kirsehir Turkey
+Tekirdag Turkey,27.52,40.98,Asia,Tekirdag Turkey
+Bolu Turkey,31.61,40.75,Asia,Bolu Turkey
+Palencia Spain,-4.54,42.03,Europe,Palencia Spain
+Durango Mexico,-104.67,24.03,Americas,Durango Mexico
+Cuauhtemoc Mexico,-103.62,19.32,Americas,Cuauhtemoc Mexico
+Pleasanton USA,-121.89,37.67,Americas,Pleasanton USA
+Noumea New Caledonia,166.44,-22.27,Oceania,Noumea New Caledonia
+Maia Portugal,-8.62,41.24,Europe,Maia Portugal
+Otwock Poland,21.28,52.11,Europe,Otwock Poland
+Stafford UK,-2.12,52.81,Europe,Stafford UK
+Hemel Hempstead UK,-0.48,51.76,Europe,Hemel Hempstead UK
+Jelenia Gora Poland,15.73,50.91,Europe,Jelenia Gora Poland
+Penza Russia,45,53.2,Europe,Penza Russia
+Stevenage UK,-0.21,51.92,Europe,Stevenage UK
+Plymouth USA,-70.67,41.96,Americas,Plymouth USA
+Akron USA,-81.52,41.08,Americas,Akron USA
+Daugavpils Latvia,26.51,55.88,Europe,Daugavpils Latvia
+Katihar India,87.57,25.55,Asia,Katihar India
+Esplugues de Llobregat Spain,2.08,41.37,Europe,Esplugues de Llobregat Spain
+Kaunas Lithuania,23.91,54.9,Europe,Kaunas Lithuania
+Campeche Mexico,-90.53,19.85,Americas,Campeche Mexico
+Cuenca Spain,-2.14,40.08,Europe,Cuenca Spain
+Gwagwalada Nigeria,7.07,9.09,Africa,Gwagwalada Nigeria
+L'Hospitalet de Llobregat Spain,2.1,41.35,Europe,L'Hospitalet de Llobregat Spain
+Sapporo Japan,141.34,43.06,Asia,Sapporo Japan
+Galashiels UK,-2.82,55.62,Europe,Galashiels UK
+Dearborn USA,-83.21,42.31,Americas,Dearborn USA
+Peabody USA,-70.97,42.53,Americas,Peabody USA
+Canakkale Turkey,26.41,40.16,Asia,Canakkale Turkey
+Londonderry UK,-7.33,55,Europe,Londonderry UK
+Los Andes Colombia,-77.5,1.52,Americas,Los Andes Colombia
+Rotorua New Zealand,176.24,-38.14,Oceania,Rotorua New Zealand
+Salisbury UK,-1.8,51.08,Europe,Salisbury UK
+Muret France,1.31,43.47,Europe,Muret France
+Sevran France,2.52,48.93,Europe,Sevran France
+Cape Coast Ghana,-1.25,5.11,Africa,Cape Coast Ghana
+Potomac USA,-77.2,39.03,Americas,Potomac USA
+Grand Rapids USA,-85.66,42.96,Americas,Grand Rapids USA
+Kromeriz Czech Republic,17.38,49.3,Europe,Kromeriz Czech Republic
+Wilson USA,-77.92,35.73,Americas,Wilson USA
+Chambery France,5.91,45.58,Europe,Chambery France
+Le Havre France,0.12,49.5,Europe,Le Havre France
+Dedovsk Russia,37.12,55.87,Europe,Dedovsk Russia
+Istra Russia,36.86,55.92,Europe,Istra Russia
+Sainte-Justine Canada,-70.34,46.41,Americas,Sainte-Justine Canada
+Christchurch UK,-1.76,50.73,Europe,Christchurch UK
+Semnan Iran,53.38,35.55,Asia,Semnan Iran
+Verdun France,5.39,49.17,Europe,Verdun France
+Latina Italy,12.89,41.47,Europe,Latina Italy
+Merseburg Germany,11.99,51.36,Europe,Merseburg Germany
+Newmarket UK,0.42,52.25,Europe,Newmarket UK
+Solihull UK,-1.78,52.42,Europe,Solihull UK
+Ede Netherlands,5.65,52.04,Europe,Ede Netherlands
+Herford Germany,8.67,52.12,Europe,Herford Germany
+Fareham UK,-1.19,50.85,Europe,Fareham UK
+Volta Redonda Brazil,-44.12,-22.51,Americas,Volta Redonda Brazil
+Novo Horizonte Brazil,-49.22,-21.46,Americas,Novo Horizonte Brazil
+Saint-Denis Reunion,55.46,-20.87,Africa,Saint-Denis Reunion
+Villamartin Spain,-5.64,36.86,Europe,Villamartin Spain
+Numazu Japan,138.86,35.1,Asia,Numazu Japan
+Sion Switzerland,7.35,46.25,Europe,Sion Switzerland
+Belgorod Russia,36.59,50.61,Europe,Belgorod Russia
+Nanning China,108.32,22.82,Asia,Nanning China
+Warwick Australia,152.03,-28.22,Oceania,Warwick Australia
+Mostoles Spain,-3.88,40.32,Europe,Mostoles Spain
+Traian Romania,27.03,46.63,Europe,Traian Romania
+Kalyani India,88.48,22.98,Asia,Kalyani India
+Pasto Colombia,-77.28,1.21,Americas,Pasto Colombia
+Varna Bulgaria,27.9,43.21,Europe,Varna Bulgaria
+Silistra Bulgaria,27.27,44.11,Europe,Silistra Bulgaria
+Gabrovo Bulgaria,25.31,42.9,Europe,Gabrovo Bulgaria
+Bellflower USA,-118.13,33.89,Americas,Bellflower USA
+Kamenice Czech Republic,14.58,49.9,Europe,Kamenice Czech Republic
+Antequera Spain,-4.56,37.02,Europe,Antequera Spain
+Kaduna Nigeria,7.44,10.52,Africa,Kaduna Nigeria
+Chelyabinsk Russia,61.43,55.15,Europe,Chelyabinsk Russia
+Lorena Brazil,-45.11,-22.73,Americas,Lorena Brazil
+Gloucester UK,-2.24,51.86,Europe,Gloucester UK
+Issy-les-Moulineaux France,2.26,48.83,Europe,Issy-les-Moulineaux France
+Sant Boi de Llobregat Spain,2.03,41.36,Europe,Sant Boi de Llobregat Spain
+Crawley UK,-0.2,51.13,Europe,Crawley UK
+Caboolture Australia,152.95,-27.09,Oceania,Caboolture Australia
+Manisa Turkey,27.43,38.63,Asia,Manisa Turkey
+Hof Germany,11.9,50.32,Europe,Hof Germany
+Sibiu Romania,24.13,45.79,Europe,Sibiu Romania
+Oradea Romania,21.92,47.07,Europe,Oradea Romania
+Biberach Germany,9.78,48.1,Europe,Biberach Germany
+Merelbeke Belgium,3.75,51,Europe,Merelbeke Belgium
+Bielefeld Germany,8.53,52.03,Europe,Bielefeld Germany
+San Rafael USA,-122.51,37.98,Americas,San Rafael USA
+Klaipeda Lithuania,21.13,55.71,Europe,Klaipeda Lithuania
+Sevilla Colombia,-75.93,4.28,Americas,Sevilla Colombia
+Stillwater USA,-97.07,36.13,Americas,Stillwater USA
+Descalvado Brazil,-47.62,-21.9,Americas,Descalvado Brazil
+Varese Italy,8.83,45.83,Europe,Varese Italy
+Deggendorf Germany,12.96,48.85,Europe,Deggendorf Germany
+Bondy France,2.47,48.91,Europe,Bondy France
+Itaqui Brazil,-56.55,-29.13,Americas,Itaqui Brazil
+Kelaniya Sri Lanka,79.92,6.96,Asia,Kelaniya Sri Lanka
+Rostov Russia,39.4,57.19,Europe,Rostov Russia
+Ivanovice na Hane Czech Republic,17.1,49.32,Europe,Ivanovice na Hane Czech Republic
+Anchorage USA,-149.19,61.18,Americas,Anchorage USA
+Royal Oak USA,-83.15,42.51,Americas,Royal Oak USA
+Chiali Taiwan,120.17,23.17,Asia,Chiali Taiwan
+Abergavenny UK,-3.02,51.83,Europe,Abergavenny UK
+Valladolid Mexico,-88.2,20.67,Americas,Valladolid Mexico
+Bagneux France,2.3,48.79,Europe,Bagneux France
+Belgaum India,74.5,15.86,Asia,Belgaum India
+Leon Nicaragua,-86.89,12.43,Americas,Leon Nicaragua
+Matsuyama Japan,132.77,33.84,Asia,Matsuyama Japan
+Joacaba Brazil,-51.5,-27.17,Americas,Joacaba Brazil
+Aix-en-Provence France,5.44,43.53,Europe,Aix-en-Provence France
+Quezon Philippines,123.28,10.43,Asia,Quezon Philippines
+Mansfield USA,-82.53,40.76,Americas,Mansfield USA
+El Paso USA,-106.44,31.85,Americas,El Paso USA
+Fremont USA,-122,37.53,Americas,Fremont USA
+Alhambra USA,-118.13,34.08,Americas,Alhambra USA
+Santa Cruz Brazil,-36.03,-6.22,Americas,Santa Cruz Brazil
+Lismore Australia,153.29,-28.81,Oceania,Lismore Australia
+Saint-Max France,6.2,48.71,Europe,Saint-Max France
+Luton UK,-0.44,51.9,Europe,Luton UK
+Borne Netherlands,6.72,52.32,Europe,Borne Netherlands
+Knoxville USA,-83.95,35.97,Americas,Knoxville USA
+Cuneo Italy,7.54,44.39,Europe,Cuneo Italy
+Fossano Italy,7.72,44.56,Europe,Fossano Italy
+Sinop Turkey,35.15,42.03,Asia,Sinop Turkey
+Bourgoin-Jallieu France,5.27,45.6,Europe,Bourgoin-Jallieu France
+Lennik Belgium,4.15,50.8,Europe,Lennik Belgium
+Grays UK,0.32,51.48,Europe,Grays UK
+Stoke-on-Trent UK,-2.19,53.01,Europe,Stoke-on-Trent UK
+Valencia Venezuela,-67.98,10.23,Americas,Valencia Venezuela
+Fougeres France,-1.22,48.36,Europe,Fougeres France
+Valjevo Serbia,19.89,44.28,Europe,Valjevo Serbia
+Oliveira Brazil,-44.83,-20.69,Americas,Oliveira Brazil
+Roscommon Ireland,-8.2,53.64,Europe,Roscommon Ireland
+Kumamoto Japan,130.71,32.8,Asia,Kumamoto Japan
+Kagoshima Japan,130.56,31.59,Asia,Kagoshima Japan
+Hyderabad Pakistan,68.37,25.38,Asia,Hyderabad Pakistan
+Beausoleil France,7.41,43.75,Europe,Beausoleil France
+Linz Austria,14.29,48.31,Europe,Linz Austria
+Inonu Turkey,33.77,37.32,Asia,Inonu Turkey
+Morlaix France,-3.84,48.58,Europe,Morlaix France
+Bayamon Puerto Rico,-66.17,18.35,Americas,Bayamon Puerto Rico
+Florida Puerto Rico,-66.58,18.39,Americas,Florida Puerto Rico
+Lalitpur India,78.41,24.7,Asia,Lalitpur India
+Georgsmarienhutte Germany,8.05,52.2,Europe,Georgsmarienhutte Germany
+Osnabruck Germany,8.05,52.28,Europe,Osnabruck Germany
+Harjavalta Finland,22.13,61.32,Europe,Harjavalta Finland
+Naucalpan Mexico,-99.23,19.48,Americas,Naucalpan Mexico
+Wurzburg Germany,9.94,49.8,Europe,Wurzburg Germany
+Chene-Bourg Switzerland,6.2,46.2,Europe,Chene-Bourg Switzerland
+Spiez Switzerland,7.67,46.69,Europe,Spiez Switzerland
+La Garriga Spain,2.28,41.69,Europe,La Garriga Spain
+Cervera Spain,1.28,41.67,Europe,Cervera Spain
+Lleida Spain,0.63,41.62,Europe,Lleida Spain
+Campobasso Italy,14.65,41.57,Europe,Campobasso Italy
+Falkirk UK,-3.79,56.02,Europe,Falkirk UK
+Castellammare di Stabia Italy,14.48,40.7,Europe,Castellammare di Stabia Italy
+Sousa Brazil,-38.23,-6.76,Americas,Sousa Brazil
+Scottsdale USA,-111.87,33.69,Americas,Scottsdale USA
+Jammu India,74.85,32.71,Asia,Jammu India
+Plzen Czech Republic,13.37,49.75,Europe,Plzen Czech Republic
+Boppard Germany,7.6,50.24,Europe,Boppard Germany
+Orlu Nigeria,7.03,5.78,Africa,Orlu Nigeria
+Oetwil am See Switzerland,8.72,47.27,Europe,Oetwil am See Switzerland
+Jizan Saudi Arabia,42.55,16.9,Asia,Jizan Saudi Arabia
+Baga Nigeria,13.88,13.12,Africa,Baga Nigeria
+Allonnes France,0.14,47.97,Europe,Allonnes France
+Saint-Cyr-sur-Loire France,0.65,47.4,Europe,Saint-Cyr-sur-Loire France
+Harlow UK,0.11,51.78,Europe,Harlow UK
+Grodzisk Mazowiecki Poland,20.62,52.11,Europe,Grodzisk Mazowiecki Poland
+Newbury UK,-1.33,51.4,Europe,Newbury UK
+Saint John Canada,-66.06,45.29,Americas,Saint John Canada
+Rio Branco Brazil,-67.82,-9.98,Americas,Rio Branco Brazil
+Goiana Brazil,-35,-7.56,Americas,Goiana Brazil
+Dicle Turkey,40.07,38.37,Asia,Dicle Turkey
+Diyarbakir Turkey,40.23,37.92,Asia,Diyarbakir Turkey
+Machado Brazil,-45.92,-21.68,Americas,Machado Brazil
+Cuernavaca Mexico,-99.25,18.92,Americas,Cuernavaca Mexico
+Morelos Mexico,-101.47,19.98,Americas,Morelos Mexico
+Glossop UK,-1.96,53.44,Europe,Glossop UK
+Rio Claro Brazil,-47.56,-22.41,Americas,Rio Claro Brazil
+Talence France,-0.57,44.82,Europe,Talence France
+Mariana Brazil,-43.42,-20.38,Americas,Mariana Brazil
+Voiron France,5.57,45.38,Europe,Voiron France
+Annecy France,6.12,45.91,Europe,Annecy France
+Rosny-sous-Bois France,2.48,48.88,Europe,Rosny-sous-Bois France
+Fitchburg USA,-71.82,42.59,Americas,Fitchburg USA
+Colmenar Viejo Spain,-3.76,40.67,Europe,Colmenar Viejo Spain
+Leganes Spain,-3.77,40.33,Europe,Leganes Spain
+Douai France,3.08,50.37,Europe,Douai France
+Henin-Beaumont France,2.93,50.41,Europe,Henin-Beaumont France
+Manning Canada,-117.61,56.93,Americas,Manning Canada
+White Plains USA,-73.76,41.02,Americas,White Plains USA
+Pierre-Benite France,4.82,45.7,Europe,Pierre-Benite France
+Ivanec Croatia,16.12,46.22,Europe,Ivanec Croatia
+Allauch France,5.48,43.34,Europe,Allauch France
+Norman USA,-97.34,35.23,Americas,Norman USA
+Jau Brazil,-48.57,-22.29,Americas,Jau Brazil
+Whangarei New Zealand,174.31,-35.72,Oceania,Whangarei New Zealand
+Ciempozuelos Spain,-3.63,40.16,Europe,Ciempozuelos Spain
+Glen Burnie USA,-76.6,39.17,Americas,Glen Burnie USA
+Capelle Netherlands,4.58,51.94,Europe,Capelle Netherlands
+Firminy France,4.28,45.4,Europe,Firminy France
+Bathurst Canada,-65.65,47.62,Americas,Bathurst Canada
+La Plata Argentina,-57.96,-34.92,Americas,La Plata Argentina
+La Plata Colombia,-75.89,2.39,Americas,La Plata Colombia
+Copacabana Colombia,-75.51,6.35,Americas,Copacabana Colombia
+Canela Brazil,-50.81,-29.36,Americas,Canela Brazil
+Sant Joan d'Alacant Spain,-0.44,38.4,Europe,Sant Joan d'Alacant Spain
+Giessen Germany,8.68,50.58,Europe,Giessen Germany
+Rovigo Italy,11.78,45.08,Europe,Rovigo Italy
+Trezzo Italy,9.51,45.62,Europe,Trezzo Italy
+Limeil-Brevannes France,2.48,48.74,Europe,Limeil-Brevannes France
+Waltham USA,-71.24,42.39,Americas,Waltham USA
+Utrecht South Africa,30.32,-27.66,Africa,Utrecht South Africa
+Young Australia,148.29,-34.31,Oceania,Young Australia
+Darmstadt Germany,8.64,49.87,Europe,Darmstadt Germany
+Ichikawa Japan,139.93,35.72,Asia,Ichikawa Japan
+Baku Azerbaijan,49.86,40.39,Asia,Baku Azerbaijan
+Teaneck USA,-74.01,40.89,Americas,Teaneck USA
+Mende France,3.48,44.52,Europe,Mende France
+Duluth USA,-92.12,46.78,Americas,Duluth USA
+Colorado Springs USA,-104.76,38.86,Americas,Colorado Springs USA
+Trabzon Turkey,39.71,41,Asia,Trabzon Turkey
+West Hartford USA,-72.75,41.77,Americas,West Hartford USA
+Nara Japan,135.83,34.69,Asia,Nara Japan
+Kashihara Japan,135.8,34.5,Asia,Kashihara Japan
+Suita Japan,135.52,34.75,Asia,Suita Japan
+Sennan Japan,135.28,34.37,Asia,Sennan Japan
+Gose Japan,135.75,34.46,Asia,Gose Japan
+Pocatello USA,-112.47,42.88,Americas,Pocatello USA
+Arad Romania,21.32,46.19,Europe,Arad Romania
+Berceni Romania,26.12,44.93,Europe,Berceni Romania
+Oklahoma City USA,-97.51,35.47,Americas,Oklahoma City USA
+Srinagar India,74.79,34.09,Asia,Srinagar India
+Joue-les-Tours France,0.65,47.36,Europe,Joue-les-Tours France
+Richmond New Zealand,173.2,-41.31,Oceania,Richmond New Zealand
+Chesapeake USA,-76.31,36.68,Americas,Chesapeake USA
+Wako Japan,139.61,35.78,Asia,Wako Japan
+Dornbirn Austria,9.74,47.42,Europe,Dornbirn Austria
+Elgin USA,-88.29,42.04,Americas,Elgin USA
+Francisco Morato Brazil,-46.75,-23.27,Americas,Francisco Morato Brazil
+Toledo Brazil,-53.74,-24.73,Americas,Toledo Brazil
+Lanzhou China,103.68,36.05,Asia,Lanzhou China
+Pithiviers France,2.25,48.18,Europe,Pithiviers France
+Balboa Panama,-79.56,8.94,Americas,Balboa Panama
+Guatemala Guatemala,-90.55,14.63,Americas,Guatemala Guatemala
+Mobile USA,-88.09,30.68,Americas,Mobile USA
+Roubaix France,3.17,50.69,Europe,Roubaix France
+Arco Italy,10.87,45.92,Europe,Arco Italy
+Newport UK,-3,51.59,Europe,Newport UK
+Brockton USA,-71.03,42.08,Americas,Brockton USA
+San Ramon USA,-121.95,37.76,Americas,San Ramon USA
+Portoferraio Italy,10.3,42.82,Europe,Portoferraio Italy
+Miami Beach USA,-80.14,25.81,Americas,Miami Beach USA
+Atlantic City USA,-74.45,39.38,Americas,Atlantic City USA
+Iraklion Greece,25.13,35.33,Europe,Iraklion Greece
+Accra Ghana,-0.2,5.56,Africa,Accra Ghana
+Forde Norway,5.47,59.61,Europe,Forde Norway
+Weggis Switzerland,8.43,47.03,Europe,Weggis Switzerland
+Courbevoie France,2.25,48.9,Europe,Courbevoie France
+Alfred Canada,-74.87,45.55,Americas,Alfred Canada
+Rijswijk Netherlands,4.36,52.05,Europe,Rijswijk Netherlands
+San Juan Puerto Rico,-66.13,18.44,Americas,San Juan Puerto Rico
+Suva Fiji,178.43,-18.13,Oceania,Suva Fiji
+Lansing USA,-84.55,42.71,Americas,Lansing USA
+Taufkirchen Germany,11.61,48.05,Europe,Taufkirchen Germany
+Thisted Denmark,8.69,56.96,Europe,Thisted Denmark
+Viborg Denmark,9.41,56.46,Europe,Viborg Denmark
+Middletown USA,-72.65,41.55,Americas,Middletown USA
+Erie USA,-80.09,42.13,Americas,Erie USA
+Peoria USA,-89.61,40.74,Americas,Peoria USA
+Yaroslavl Russia,39.87,57.62,Europe,Yaroslavl Russia
+Greeley USA,-104.74,40.42,Americas,Greeley USA
+Sunrise USA,-80.3,26.15,Americas,Sunrise USA
+Ware UK,-0.03,51.8,Europe,Ware UK
+Vevey Switzerland,6.82,46.47,Europe,Vevey Switzerland
+Arhus Denmark,10.21,56.16,Europe,Arhus Denmark
+Gorakhpur India,83.36,26.76,Asia,Gorakhpur India
+East Providence USA,-71.36,41.8,Americas,East Providence USA
+Boynton Beach USA,-80.08,26.53,Americas,Boynton Beach USA
+Newton USA,-71.21,42.33,Americas,Newton USA
+Chatham Canada,-82.19,42.41,Americas,Chatham Canada
+Fishers USA,-86.02,39.95,Americas,Fishers USA
+Seto Japan,137.08,35.22,Asia,Seto Japan
+Nankoku Japan,133.64,33.58,Asia,Nankoku Japan
+Topeka USA,-95.69,39.04,Americas,Topeka USA
+Salina USA,-97.62,38.82,Americas,Salina USA
+Tiel Netherlands,5.43,51.91,Europe,Tiel Netherlands
