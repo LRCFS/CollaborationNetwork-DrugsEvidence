@@ -93,7 +93,7 @@ p <-  ggplot(cntry.dat, (aes(x=Country, y=Count, fill=Continent))) +
         plot.background=element_blank(),  # element_rect(fill, colour, size, linetype, color))
         panel.border=element_blank(),
         plot.margin=margin(0.2,0.4,0.1,0.2,"cm"),
-        plot.title=element_text(colour=textcol,hjust=0,size=6))
+        plot.title=element_text(colour=textcol,hjust=0,size=6))+ labs(fill = "Region") # change Continent to region
 p <- p+theme(legend.position = c(0.9, 0.5))
 
 show(p)
