@@ -1,5 +1,5 @@
 # this is to set the range for the keyword figure
-range <- as.numeric(max(SubsetKeywordNarrowRangeGraph$x, na.rm = TRUE))
+# range <- as.numeric(max(SubsetKeywordNarrowRangeGraph$x, na.rm = TRUE))
 
 if (range>400){
   DatasetRange <- c("0","1-2","3-5","6-10","11-25","26-50","51-75","76-100", "101-200","200-400",">400")
