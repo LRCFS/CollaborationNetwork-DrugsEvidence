@@ -324,14 +324,14 @@ dat_csvKeyword_Country_Count_reduced <- subset(dat_csvKeyword_Country_Count, Cou
 dat_csvKeyword_Keyword_Count <- aggregate(dat_csvKeyword_CountryList$NPS_Corpus, by=list(NPS_Corpus = dat_csvKeyword_CountryList$NPS_Corpus), FUN=length)
 
 #select the top 100 NPS_Corpus appearing in list
-dat_csvKeyword_Keyword_Count <- top_n(dat_csvKeyword_Keyword_Count,100)
-write.csv(dat_csvKeyword_Keyword_Count, file = "dat_csvKeyword_Keyword_Count.csv", row.names = FALSE)
+#dat_csvKeyword_Keyword_Count <- top_n(dat_csvKeyword_Keyword_Count,100)
+#write.csv(dat_csvKeyword_Keyword_Count, file = "dat_csvKeyword_Keyword_Count.csv", row.names = FALSE)
 
 # subset against the top list
 dat_csvKeyword_Country_NPS_Corpus_reduced <- subset(dat_csvKeyword_Country_Count_reduced, NPS_Corpus %in% dat_csvKeyword_Keyword_Count$NPS_Corpus)
 
 
-##### OR by considering the top match of each country separately before merging together
+##### and by considering the top match of each country separately before merging together
 
 # This part instead consider the top n countries and return their individual top n list of NPS_orpus. They are then meged together in a list. 
 dat_csvKeyword_Country_Country_Count_list <- dat_csvKeyword_Country_Country_Count$CountryName
@@ -342,7 +342,7 @@ for (i in 1:length(dat_csvKeyword_Country_Country_Count_list)){
   
   dat_csvKeyword_Country_Count_reduced_temp <- dat_csvKeyword_CountryList %>%
     filter(CountryName == dat_csvKeyword_Country_Country_Count_list[i])
-  
+
   # count the number of match to the NPS_Corpus
   dat_csvKeyword_Keyword_Count_temp <- aggregate(dat_csvKeyword_Country_Count_reduced_temp$NPS_Corpus, by=list(NPS_Corpus = dat_csvKeyword_Country_Count_reduced_temp$NPS_Corpus), FUN=length)
   
@@ -364,15 +364,21 @@ for (i in 1:length(dat_csvKeyword_Country_Country_Count_list)){
 }
 
 # subset against the top list
-dat_csvKeyword_Country_NPS_Corpus_reduced <- subset(dat_csvKeyword_Country_Count_reduced, NPS_Corpus %in% dat_csvKeyword_Keyword_Count$NPS_Corpus)
-
-#write.table(dat_csvKeyword_CountryList, file = "Keyword_CountryList.txt", quote = F, sep = "\t", row.names = F)
+# dat_csvKeyword_Country_NPS_Corpus_reduced <- subset(dat_csvKeyword_Country_Count_reduced, NPS_Corpus %in% dat_csvKeyword_Keyword_Count$NPS_Corpus)
+# dat_csvKeyword_Country_NPS_Corpus_reduced <- dat_csvKeyword_Keyword_Count
+# write.table(dat_csvKeyword_CountryList, file = "Keyword_CountryList.txt", quote = F, sep = "\t", row.names = F)
 
 ############################
 ##### For top keywords #####
 ############################
 
 names(dat_csvKeyword_Country_NPS_Corpus_reduced)[3] <- "Frequency"
+
+dat_csvKeyword_Country_NPS_Corpus_reduced <- full_join(dat_csvKeyword_Country_NPS_Corpus_reduced, dat_csvKeyword_Keyword_Count)
+dat_csvKeyword_Country_NPS_Corpus_reduced$x[!is.na(dat_csvKeyword_Country_NPS_Corpus_reduced$x)] <- "black"
+dat_csvKeyword_Country_NPS_Corpus_reduced$x[is.na(dat_csvKeyword_Country_NPS_Corpus_reduced$x)] <- "white"
+names(dat_csvKeyword_Country_NPS_Corpus_reduced)[4] <- "ColourCode"
+
 dat_csvKeyword_Country_NPS_Corpus_reduced$CountryName <- as.factor(dat_csvKeyword_Country_NPS_Corpus_reduced$CountryName)
 dat_csvKeyword_Country_NPS_Corpus_reduced$NPS_Corpus <- as.factor(dat_csvKeyword_Country_NPS_Corpus_reduced$NPS_Corpus)
 dat_csvKeyword_Country_NPS_Corpus_reduced$NPS_Corpus <- toupper(dat_csvKeyword_Country_NPS_Corpus_reduced$NPS_Corpus)
@@ -391,16 +397,40 @@ dat_csvKeyword_Country_NPS_Corpus_reduced$Graph_order_Countries <-  gsr(as.chara
 dat_csvKeyword_Country_NPS_Corpus_reduced$Graph_order_Countries <- as.numeric(dat_csvKeyword_Country_NPS_Corpus_reduced$Graph_order_Countries)
 
 # this is to set the range for the keyword figure
+# range <- as.numeric(max(dat_csvKeyword_Country_NPS_Corpus_reduced$Frequency, na.rm = TRUE))
+# 
+# source("Functions/KeywordRange.R")
+
+#############################################################
+#####                      GRAPH                        #####
+#############################################################
+
+# Create a new variable from incidence (breaks to be changed to fit Interpol vs. Scopus data)
+#Breaks and labels for Interpol
+# dat_csvKeyword_Country_NPS_Corpus_reduced$groups <- cut(dat_csvKeyword_Country_NPS_Corpus_reduced$Frequency,
+#                                                      breaks = c(BreakRange,max(dat_csvKeyword_Country_NPS_Corpus_reduced$Frequency,na.rm=T)),
+#                                                      labels=DatasetRange)
+# 
+# GraphTemp1 <- dat_csvKeyword_Country_NPS_Corpus_reduced %>%
+#   # convert state to factor and reverse order of levels
+#   mutate(KeywordsCorrected=factor(NPS_Corpus,levels=rev(sort(unique(NPS_Corpus))))) %>%
+#   # create a new variable from count
+#   mutate(countfactor=cut(Frequency,breaks=c(BreakRange,max(Frequency,na.rm=T)),
+#                          labels=DatasetRange))  %>%
+#     # change level order
+#   mutate(countfactor=factor(as.character(countfactor),levels=rev(levels(countfactor))))
+
+# this is to set the range for the keyword figure
 dat_csvKeyword_Country_NPS_Corpus_reduced$groups <- cut(dat_csvKeyword_Country_NPS_Corpus_reduced$Frequency,               # Add group column
-                                                        breaks = c(-1, 0, 2, 5, 10, 50, 100, 400, max(dat_csvKeyword_Country_NPS_Corpus_reduced$Frequency,na.rm = T)),
-                                                        labels=c("0","1-2","3-5","6-10","11-50","51-100","101-400",">400"))
+                                                       breaks = c(-1, 0, 1, 2, 5, 10, 50, 100, max(dat_csvKeyword_Country_NPS_Corpus_reduced$Frequency,na.rm = T)),
+                                                       labels=c("0","1","2","3-5","6-10","11-50","51-100",">100"))
 
 GraphTemp1 <- dat_csvKeyword_Country_NPS_Corpus_reduced %>%
   # convert state to factor and reverse order of levels
   mutate(KeywordsCorrected=factor(NPS_Corpus,levels=rev(sort(unique(NPS_Corpus))))) %>%
   # create a new variable from count
-  mutate(countfactor=cut(Frequency,breaks=c(-1, 0, 2, 5, 10, 50, 100, 400, max(Frequency,na.rm = T)),
-                         labels=c("0","1-2","3-5","6-10","11-50","51-100","101-400",">400")))  %>%
+  mutate(countfactor=cut(Frequency,breaks=c(-1, 0, 1, 2, 5, 10, 50, 100, max(Frequency,na.rm = T)),
+                         labels=c("0","1","2","3-5","6-10","11-50","51-100",">100")))  %>%
   # change level order
   mutate(countfactor=factor(as.character(countfactor),levels=rev(levels(countfactor))))
 # ScopusKeywordList$WYear <- gsr(ScopusKeywordList$Year,year$Var1,1/year$Freq)
@@ -413,9 +443,11 @@ GraphTemp1$HighResNPS <-  gsr(as.character(GraphTemp1$NPS_Corpus),as.character(N
 textcol <- "black"
 
 p <- ggplot(GraphTemp1,aes(x=reorder(CountryName, Graph_order_Countries),y=reorder(HighResNPS,desc(Graph_order_Keywords)),fill=countfactor))+
-  geom_tile(colour="white",size=0.2) + 
+  geom_tile(colour=GraphTemp1$ColourCode,width=0.85, height=0.85, size=0.1) + 
   guides(fill=guide_legend(title="Count")) +
-  scale_fill_manual(values=c("#d53e4f","#f46d43","#fdae61","#fee08b","#d5ee52","#77c86c","#66afc6","#ddf1da"),na.value = "grey90") +
+  scale_fill_manual(values=c("#d53e4f","#f46d43","#fdae61","#fee08b","#d5ee52","#77c86c","#66afc6","#ddf1da", "#8968CD"),na.value = "grey90") +
+#                           c("#990000","#FF5D00","#FFB900","#FFFF00","#ACFF00","#00CC00","#33FFFF","#008BFF","#0000FF","#8968CD","#551A8B")
+  # scale_fill_manual(values=c(pal),na.value = "grey90")+
   theme(text = element_text(family = "Palatino"),
         legend.position="right",legend.direction="vertical",
         legend.title=element_text(colour=textcol),
@@ -431,7 +463,7 @@ p <- ggplot(GraphTemp1,aes(x=reorder(CountryName, Graph_order_Countries),y=reord
         plot.title=element_text(colour=textcol,hjust=0,size=6),
         axis.title.x = element_blank(), axis.title.y = element_blank(), axis.text.x = element_text(size=5, angle = 60, hjust=1))
 
-# show(p)
+show(p)
 
 #save figure
 Var1 <- paste0("Fig_4_NPS_Corpus_Country")
