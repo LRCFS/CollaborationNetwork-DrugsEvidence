@@ -155,7 +155,7 @@ plt1 = ggplot(cntry.dat.Summary.l, aes(x = as.factor(Country), y = count, fill =
   geom_col() + 
   coord_flip() + 
   #scale_fill_manual(values = c("gray", brewer.pal(5, "Set1")), breaks = c("Africa", "Americas", "Asia", "Europe", "Oceania")) +
-  scale_fill_manual(labels = c('Science &\nEngineering [38]','NPS references\non Scopus'), values = brewer.pal(3, 'Blues')[1:2]) + 
+  scale_fill_manual(labels = c('Science &\nEngineering [26]','NPS references\non Scopus'), values = brewer.pal(3, 'Blues')[1:2]) + 
   #ggtitle('IFSMS Report') +
   xlab('Country Affiliation') +
   ylab('Percentage of outputs with international collaboration') +
@@ -167,3 +167,4 @@ show(plt1)
 
 ggsave(paste0(Figure.dir,"Fig_6_NPS_Scopus_Country_International_Collaboration_S_And_E.tiff"), plt1, width = 8, height = 6, units = "in", dpi=300)
 
+print("Processing complete. Please check 'Results/' and 'Figures/' folders for output")

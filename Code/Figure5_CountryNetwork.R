@@ -170,6 +170,7 @@ AdjacencyListGephi <- recombinedDataset %>%
 # export the adjacency list for Gephi import
 write.table(AdjacencyListGephi,paste0(Results.dir,"AdjacencyList.csv"), row.names = F, quote=F,col.names=FALSE)
 
+print("Processing complete. Please check 'Gephi' folders for output and instructions")
 
 # For Gephi, import the Adjacency list first, selecting comma instead of space separator.
 # In Data Laboratory, in Nodes, Import Spreadsheet

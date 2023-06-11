@@ -9,7 +9,7 @@
 # Chiron AS, Stiklestadveien 1, NO-7041 Trondheim, Norway
 
 # Caitlyn Norman, Dorothy Xi Yue Lim , Taylor Henderson, Fabio Casali,
-# Craig McKenzie, Niamh Nic Daéid, Lorna Nisbet, Hervé Ménard
+# Niamh Nic Daéid, Lorna Nisbet, Hervé Ménard
 
 # Website: https://github.com/HerveMenard/CollaborationNetwork-DrugsEvidence
 # Contact: lrc@dundee.ac.uk
